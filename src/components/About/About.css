@@ -1,0 +1,87 @@
+/* ---------- About view ---------- */
+.about {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 32px;
+  box-shadow: var(--shadow);
+  max-width: 680px;
+}
+
+.about__title {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--primary);
+  margin-bottom: 14px;
+}
+
+.about__lead {
+  color: var(--text);
+  margin-bottom: 26px;
+}
+
+.about__subtitle {
+  font-size: 1.05rem;
+  margin-bottom: 12px;
+}
+
+.about__steps {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 28px;
+}
+
+.about__steps li {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  color: var(--text-muted);
+}
+
+.about__num {
+  flex-shrink: 0;
+  width: 26px;
+  height: 26px;
+  display: grid;
+  place-items: center;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--primary);
+  background: var(--primary-soft);
+  border-radius: 7px;
+}
+
+.about__ladder {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 18px;
+}
+
+.about__rung {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--text);
+  background: var(--surface-soft);
+  border: 1px solid var(--border);
+  padding: 8px 14px;
+  border-radius: 8px;
+}
+
+.about__rung--done {
+  color: var(--easy);
+  border-color: rgba(74, 222, 128, 0.4);
+}
+
+.about__note {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.7;
+}
+
+.about__note strong {
+  color: var(--text);
+}
