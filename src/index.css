@@ -1,0 +1,54 @@
+/* ---------- Global reset + design tokens ---------- */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg: #0f1419;
+  --surface: #1a212b;
+  --surface-soft: #232c38;
+  --border: #2c3744;
+  --text: #e6edf3;
+  --text-muted: #8b97a5;
+  --primary: #2dd4bf; /* teal accent — the "due / action" color */
+  --primary-soft: #133a36;
+
+  /* Difficulty colors carry real meaning, not decoration. */
+  --easy: #4ade80;
+  --medium: #fbbf24;
+  --hard: #f87171;
+
+  --radius: 14px;
+  --shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+}
+
+/* Monospace for titles, counts, and anything code-flavored. */
+.mono {
+  font-family: 'JetBrains Mono', ui-monospace, monospace;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+a {
+  color: var(--primary);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+  }
+}
