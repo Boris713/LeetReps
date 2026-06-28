@@ -1,0 +1,140 @@
+/* ---------- Problem card ---------- */
+.problem {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  justify-content: space-between;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+}
+
+.problem__main {
+  min-width: 0;
+}
+
+.problem__row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 6px;
+}
+
+/* Difficulty tags encode real information through color. */
+.tag {
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 2px 8px;
+  border-radius: 6px;
+}
+
+.tag--easy {
+  color: var(--easy);
+  background: rgba(74, 222, 128, 0.12);
+}
+
+.tag--medium {
+  color: var(--medium);
+  background: rgba(251, 191, 36, 0.12);
+}
+
+.tag--hard {
+  color: var(--hard);
+  background: rgba(248, 113, 113, 0.12);
+}
+
+.problem__pattern {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.problem__title {
+  font-size: 1rem;
+  font-weight: 700;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.problem__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  align-items: center;
+  margin-top: 6px;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.problem__meta a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.problem__due {
+  color: var(--primary);
+}
+
+.problem__due.is-mastered {
+  color: var(--easy);
+}
+
+/* Rating buttons (review mode) */
+.problem__ratings {
+  display: flex;
+  gap: 6px;
+  flex-shrink: 0;
+}
+
+.rate {
+  border: 1px solid var(--border);
+  background: var(--surface-soft);
+  color: var(--text);
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 8px 12px;
+  border-radius: 8px;
+  transition: transform 0.1s ease, border-color 0.2s ease;
+}
+
+.rate:hover {
+  transform: translateY(-1px);
+}
+
+.rate--hard:hover {
+  border-color: var(--hard);
+  color: var(--hard);
+}
+.rate--good:hover {
+  border-color: var(--primary);
+  color: var(--primary);
+}
+.rate--easy:hover {
+  border-color: var(--easy);
+  color: var(--easy);
+}
+
+/* Remove button (list mode) */
+.problem__remove {
+  flex-shrink: 0;
+  border: 1px solid var(--border);
+  background: var(--surface-soft);
+  color: var(--text-muted);
+  padding: 8px 11px;
+  border-radius: 8px;
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.problem__remove:hover {
+  color: var(--hard);
+  border-color: var(--hard);
+}
+
+@media (max-width: 480px) {
+  .problem {
+    flex-wrap: wrap;
+  }
+}

@@ -1,0 +1,66 @@
+/* ---------- Add problem form ---------- */
+.addform {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.addform__title {
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.addform__field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.addform__pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.addform__field input,
+.addform__field select {
+  font-family: inherit;
+  font-size: 0.9rem;
+  color: var(--text);
+  background: var(--surface-soft);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 9px 11px;
+}
+
+.addform__field input:focus,
+.addform__field select:focus {
+  outline: 2px solid var(--primary);
+  outline-offset: 1px;
+}
+
+.addform__field input::placeholder {
+  color: #5e6b78;
+}
+
+.addform__submit {
+  margin-top: 4px;
+  border: none;
+  background: var(--primary);
+  color: #06241f;
+  font-weight: 700;
+  font-size: 0.92rem;
+  padding: 11px;
+  border-radius: 8px;
+  transition: filter 0.2s ease;
+}
+
+.addform__submit:hover {
+  filter: brightness(1.08);
+}

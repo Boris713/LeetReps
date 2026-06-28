@@ -1,0 +1,57 @@
+/* ---------- Problem list ---------- */
+.list {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+}
+
+.list__head {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+
+.list__title {
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.list__filters {
+  display: flex;
+  gap: 6px;
+}
+
+.list__filter {
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  padding: 6px 12px;
+  border-radius: 999px;
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.list__filter:hover {
+  color: var(--text);
+}
+
+.list__filter.is-active {
+  color: var(--primary);
+  border-color: var(--primary);
+}
+
+.list__items {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.list__empty {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  padding: 8px 0;
+}
