@@ -6,9 +6,8 @@ import './ProblemList.css'
 const FILTERS = ['All', 'Due', 'Mastered']
 
 /**
- * ProblemList holds its own local UI state — the active filter — which is a
- * separate, meaningful use of useState. It filters the array it receives, then
- * renders the result dynamically with .map().
+ * ProblemList owns the active filter locally and renders a filtered
+ * subset of the problems array.
  */
 function ProblemList({ problems, onReview, onRemove }) {
   const [filter, setFilter] = useState('All')

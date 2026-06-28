@@ -3,16 +3,16 @@ import './About.css'
 
 /**
  * About is the second view, shown when App's `view` state is "about".
- * It explains the spaced-repetition method the dashboard uses.
+ * it explains the spaced-repetition method the dashboard uses.
  */
-function About() {
-  const steps = [
-    'Solve a problem, then add it with its pattern and NeetCode link.',
-    'When it comes due, redo it from scratch — no peeking.',
-    'Rate how it felt: Hard, Good, or Easy.',
-    'The rating moves the problem along the interval ladder below.',
-  ]
+const steps = [
+  'Solve a problem, then add it with its pattern and NeetCode link.',
+  'When it comes due, redo it from scratch — no peeking.',
+  'Rate how it felt: Hard, Good, or Easy.',
+  'The rating moves the problem along the interval ladder below.',
+]
 
+function About() {
   return (
     <section className="about">
       <h2 className="about__title mono">How LeetReps works</h2>

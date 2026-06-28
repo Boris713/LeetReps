@@ -10,14 +10,14 @@ const EMPTY_FORM = {
 }
 
 /**
- * AddProblemForm is a CONTROLLED form: every field's value is read from the
+ * AddProblemForm is a controlled form: every field's value is read from the
  * `form` state object, and every keystroke updates that state via onChange.
- * On submit, the new problem is handed up to App and the fields reset.
+ * on submit, the new problem is handed up to App and the fields reset.
  */
 function AddProblemForm({ onAddProblem }) {
   const [form, setForm] = useState(EMPTY_FORM)
 
-  // One change handler keyed by each input's `name` attribute.
+  // one change handler keyed by each input's `name` attribute.
   const handleChange = (event) => {
     const { name, value } = event.target
     setForm((current) => ({ ...current, [name]: value }))

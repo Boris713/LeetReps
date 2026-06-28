@@ -9,16 +9,16 @@ function ratingLabel(rating) {
 }
 
 /**
- * ProblemModal pops up when a table row is clicked. The notes textarea is a
- * controlled input (its value lives in local state); Save sends the text up to
+ * ProblemModal pops up when a table row is clicked. the notes textarea is a
+ * controlled input (its value lives in local state); save sends the text up to
  * App via onUpdateNotes. Esc or a backdrop click closes it.
  */
 function ProblemModal({ problem, onClose, onUpdateNotes, onRemove }) {
-  // Controlled notes field, seeded from the problem's saved notes.
+  // controlled notes field, seeded from the problem's saved notes.
   const [notes, setNotes] = useState(problem.notes || '')
   const [saved, setSaved] = useState(false)
 
-  // Close on Escape key.
+  // close on Escape key.
   useEffect(() => {
     const onKey = (e) => {
       if (e.key === 'Escape') onClose()
@@ -48,7 +48,7 @@ function ProblemModal({ problem, onClose, onUpdateNotes, onRemove }) {
 
   return (
     <div className="modal__backdrop" onClick={onClose}>
-      {/* Stop clicks inside the dialog from closing it. */}
+      {/* stop clicks inside the dialog from closing it. */}
       <div
         className="modal"
         role="dialog"

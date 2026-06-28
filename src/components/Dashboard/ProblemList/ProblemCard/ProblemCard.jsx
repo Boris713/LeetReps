@@ -8,13 +8,11 @@ import './ProblemCard.css'
  * It receives one problem object plus callbacks through props.
  */
 function ProblemCard({ problem, mode, onReview, onRemove }) {
-  const difficultyClass = `tag tag--${problem.difficulty.toLowerCase()}`
-
   return (
     <article className="problem">
       <div className="problem__main">
         <div className="problem__row">
-          <span className={difficultyClass}>{problem.difficulty}</span>
+          <span className={`tag tag--${problem.difficulty.toLowerCase()}`}>{problem.difficulty}</span>
           <span className="problem__pattern">{problem.pattern}</span>
         </div>
 
@@ -35,24 +33,11 @@ function ProblemCard({ problem, mode, onReview, onRemove }) {
 
       {mode === 'review' ? (
         <div className="problem__ratings">
-          <button
-            className="rate rate--hard"
-            onClick={() => onReview(problem.id, 'hard')}
-          >
-            Hard
-          </button>
-          <button
-            className="rate rate--good"
-            onClick={() => onReview(problem.id, 'good')}
-          >
-            Good
-          </button>
-          <button
-            className="rate rate--easy"
-            onClick={() => onReview(problem.id, 'easy')}
-          >
-            Easy
-          </button>
+          {['hard', 'good', 'easy'].map((r) => (
+            <button key={r} className={`rate rate--${r}`} onClick={() => onReview(problem.id, r)}>
+              {r.charAt(0).toUpperCase() + r.slice(1)}
+            </button>
+          ))}
         </div>
       ) : (
         <button

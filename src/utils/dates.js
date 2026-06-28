@@ -1,4 +1,4 @@
-// Small date-formatting helpers used by the Log table and modal.
+// small date-formatting helpers used by the Log table and modal.
 
 export function shortDate(iso) {
   if (!iso) return '—'

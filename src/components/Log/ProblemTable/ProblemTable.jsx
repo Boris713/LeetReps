@@ -2,7 +2,7 @@ import { dueLabel } from '../../../utils/spacedRepetition.js'
 import { shortDate, daysAgoLabel } from '../../../utils/dates.js'
 import './ProblemTable.css'
 
-// Capitalize a rating value for display ("good" -> "Good").
+// capitalize a rating value for display ("good" -> "Good").
 function ratingLabel(rating) {
   if (!rating) return '—'
   return rating.charAt(0).toUpperCase() + rating.slice(1)
@@ -10,7 +10,7 @@ function ratingLabel(rating) {
 
 /**
  * ProblemTable renders every problem as a spreadsheet row by mapping over the
- * array. Each row is clickable and reports its id up through onRowClick.
+ * array. each row is clickable and reports its id up through onRowClick.
  */
 function ProblemTable({ problems, onRowClick }) {
   if (problems.length === 0) {

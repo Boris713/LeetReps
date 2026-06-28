@@ -1,7 +1,7 @@
 import './Header.css'
 
 /**
- * Header is stateless — it receives the current view plus a callback via props,
+ * Header is stateless - it receives the current view plus a callback via props,
  * and calls the callback to switch views.
  */
 function Header({ view, onViewChange }) {

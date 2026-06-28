@@ -4,8 +4,8 @@ import ProblemModal from './ProblemModal/ProblemModal.jsx'
 import './Log.css'
 
 /**
- * Log is the third view: a spreadsheet of every problem you've worked on. It
- * owns one piece of local state — which row's modal is open — and passes the
+ * Log is the third view: a spreadsheet of every problem you've worked on. it
+ * owns one piece of local state - which row's modal is open - and passes the
  * selected problem plus callbacks down to the modal.
  */
 function Log({ problems, onUpdateNotes, onRemove }) {

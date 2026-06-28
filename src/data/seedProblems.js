@@ -1,6 +1,6 @@
-// Starter problems shown on first load (before anything is saved to storage).
+// starter problems shown on first load (before anything is saved to storage).
 // `level` is the spaced-repetition rung; `lastReviewed` is an ISO date string.
-// Dates are staggered so a couple are already due for review on day one.
+// dates are staggered so a couple are already due for review on day one.
 
 const daysAgo = (n) => {
   const d = new Date()

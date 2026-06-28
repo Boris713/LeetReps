@@ -1,5 +1,5 @@
-// Tiny wrappers around localStorage so the app's data survives a refresh.
-// (Works when you run the project locally with `npm run dev`.)
+// tiny wrappers around localStorage so the app's data survives a refresh.
+// (works when you run the project locally with `npm run dev`.)
 
 export function loadState(key, fallback) {
   try {
@@ -14,6 +14,6 @@ export function saveState(key, value) {
   try {
     localStorage.setItem(key, JSON.stringify(value))
   } catch {
-    // Ignore write errors (e.g. storage full or disabled).
+    // ignore write errors (e.g. storage full or disabled).
   }
 }

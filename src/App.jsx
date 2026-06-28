@@ -9,33 +9,33 @@ import { nextLevel, isMastered } from './utils/spacedRepetition.js'
 import './App.css'
 
 /**
- * App is the single source of truth. It owns every piece of shared state,
- * persists it to localStorage, and passes data + callbacks DOWN to children
+ * app is the single source of truth. it owns every piece of shared state,
+ * persists it to localStorage, and passes data + callbacks down to children
  * through read-only props.
  */
 function App() {
-  // useState #1 — string "mode" variable that switches the visible view.
+  // useState #1 - string "mode" variable that switches the visible view.
   const [view, setView] = useState('dashboard')
 
-  // useState #2 — the dynamic array of problems (loaded from storage if present).
+  // useState #2 - the dynamic array of problems (loaded from storage if present).
   const [problems, setProblems] = useState(() =>
     loadState('leetreps.problems', seedProblems),
   )
 
-  // useState #3 — the weekly review goal.
+  // useState #3 - the weekly review goal.
   const [goal, setGoal] = useState(() => loadState('leetreps.goal', 15))
 
-  // useState #4 — a log of review timestamps, used to measure goal progress.
+  // useState #4 - a log of review timestamps, used to measure goal progress.
   const [reviewLog, setReviewLog] = useState(() =>
     loadState('leetreps.log', []),
   )
 
-  // Persist each slice of state whenever it changes.
+  // persist each slice of state whenever it changes.
   useEffect(() => saveState('leetreps.problems', problems), [problems])
   useEffect(() => saveState('leetreps.goal', goal), [goal])
   useEffect(() => saveState('leetreps.log', reviewLog), [reviewLog])
 
-  // Add a new problem (called by the controlled form).
+  // add a new problem (called by the controlled form).
   const addProblem = (problem) => {
     setProblems((current) => [
       {
@@ -52,7 +52,7 @@ function App() {
     ])
   }
 
-  // Record a review: advance the SR level, reset the clock, log the rep.
+  // record a review: advance the SR level, reset the clock, log the rep.
   const reviewProblem = (id, rating) => {
     setProblems((current) =>
       current.map((p) => {
@@ -75,7 +75,7 @@ function App() {
     setProblems((current) => current.filter((p) => p.id !== id))
   }
 
-  // Save edited notes for a single problem (called from the Log modal).
+  // save edited notes for a single problem (called from the Log modal).
   const updateNotes = (id, notes) => {
     setProblems((current) =>
       current.map((p) => (p.id === id ? { ...p, notes } : p)),
@@ -87,7 +87,7 @@ function App() {
       <Header view={view} onViewChange={setView} />
 
       <main className="app-main">
-        {/* Conditional multi-view layout — a state variable, no router. */}
+        {/* conditional multi-view layout - a state variable, no router. */}
         {view === 'dashboard' && (
           <Dashboard
             problems={problems}
