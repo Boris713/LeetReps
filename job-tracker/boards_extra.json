@@ -1,35 +1,38 @@
 [
-  { "_skip": true, "company": "Two Sigma", "ats": "custom",
-    "careers_url": "https://careers.twosigma.com/",
-    "url": "FILL: JSON endpoint from Network tab", "items_path": "FILL", "title_field": "FILL", "url_field": "FILL", "url_prefix": "" },
-
-  { "_skip": true, "company": "Citadel", "ats": "custom",
-    "careers_url": "https://www.citadel.com/careers/open-opportunities/",
-    "url": "FILL: JSON endpoint from Network tab", "items_path": "FILL", "title_field": "FILL", "url_field": "FILL", "url_prefix": "https://www.citadel.com" },
-
-  { "_skip": true, "company": "Citadel Securities", "ats": "custom",
-    "careers_url": "https://www.citadelsecurities.com/careers/open-opportunities/",
-    "url": "FILL", "items_path": "FILL", "title_field": "FILL", "url_field": "FILL", "url_prefix": "https://www.citadelsecurities.com" },
-
-  { "_skip": true, "company": "Optiver", "ats": "custom",
-    "careers_url": "https://optiver.com/working-at-optiver/career-opportunities/",
-    "url": "FILL", "items_path": "FILL", "title_field": "FILL", "url_field": "FILL", "url_prefix": "" },
-
-  { "_skip": true, "company": "IMC Trading", "ats": "workday",
-    "careers_url": "https://careers.imc.com/",
-    "tenant": "FILL", "dc": "FILL (wd1/wd3/wd5)", "site": "FILL" },
-
-  { "_skip": true, "company": "Jane Street", "ats": "html",
-    "careers_url": "https://www.janestreet.com/join-jane-street/open-roles/",
+  { "company": "Jane Street", "ats": "html",
     "url": "https://www.janestreet.com/join-jane-street/open-roles/",
-    "link_pattern": "/join-jane-street/", "base": "https://www.janestreet.com" },
+    "link_pattern": "/join-jane-street/open-roles/", "base": "https://www.janestreet.com" },
 
-  { "_skip": true, "company": "DE Shaw", "ats": "html",
-    "careers_url": "https://www.deshaw.com/careers",
+  { "company": "DE Shaw", "ats": "html",
     "url": "https://www.deshaw.com/careers/jobs",
     "link_pattern": "/careers/", "base": "https://www.deshaw.com" },
 
-  { "_skip": true, "company": "Jump Trading", "ats": "custom",
+  { "company": "Optiver", "ats": "html",
+    "url": "https://optiver.com/join-us/jobs/technology/",
+    "link_pattern": "/join-us/jobs/technology/", "base": "https://optiver.com" },
+
+  { "_skip": true, "_note": "blocks all automated requests (403)",
+    "company": "Citadel", "ats": "custom",
+    "careers_url": "https://www.citadel.com/careers/open-opportunities/",
+    "url": "FILL", "items_path": "FILL", "title_field": "FILL", "url_field": "FILL", "url_prefix": "https://www.citadel.com" },
+
+  { "_skip": true, "_note": "blocks all automated requests (403)",
+    "company": "Citadel Securities", "ats": "custom",
+    "careers_url": "https://www.citadelsecurities.com/careers/open-opportunities/",
+    "url": "FILL", "items_path": "FILL", "title_field": "FILL", "url_field": "FILL", "url_prefix": "https://www.citadelsecurities.com" },
+
+  { "_skip": true, "_note": "blocks all automated requests (403)",
+    "company": "Jump Trading", "ats": "custom",
     "careers_url": "https://www.jumptrading.com/careers/",
-    "url": "FILL", "items_path": "FILL", "title_field": "FILL", "url_field": "FILL", "url_prefix": "https://www.jumptrading.com" }
+    "url": "FILL", "items_path": "FILL", "title_field": "FILL", "url_field": "FILL", "url_prefix": "https://www.jumptrading.com" },
+
+  { "_skip": true, "_note": "custom portal, no public JSON API found",
+    "company": "Two Sigma", "ats": "custom",
+    "careers_url": "https://careers.twosigma.com/careers/OpenRoles",
+    "url": "FILL", "items_path": "FILL", "title_field": "FILL", "url_field": "FILL", "url_prefix": "" },
+
+  { "_skip": true, "_note": "self-hosted, no Workday — needs browser Network tab inspection",
+    "company": "IMC Trading", "ats": "workday",
+    "careers_url": "https://www.imc.com/eu/search-careers",
+    "tenant": "FILL", "dc": "FILL (wd1/wd3/wd5)", "site": "FILL" }
 ]
