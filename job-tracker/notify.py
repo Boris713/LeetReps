@@ -1,76 +1,57 @@
 #!/usr/bin/env python3
 """
-notify.py — diff live postings against the last snapshot and report NEW ones.
-Designed to run in GitHub Actions on a schedule. Pure stdlib.
-
-Reads firms with `ats` + `board_token` filled in applications.csv, fetches current
-matching roles (reusing board_check), compares to snapshot.json, and:
-  - writes new_roles.md  (human-readable, used as the GitHub Issue body)
-  - updates snapshot.json (so each role only alerts once)
-  - exits 0 always; prints NEW_COUNT=<n> for the workflow to branch on.
-
-Local test:  python3 notify.py
+notify.py — diff live postings vs snapshot; report only NEW roles.
+Runs in GitHub Actions daily. Checks BOTH:
+  - applications.csv  (greenhouse/lever/ashby simple-slug firms)
+  - boards_extra.json (workday/smartrecruiters/custom/html firms)
+Writes new_roles.md, updates snapshot.json, prints NEW_COUNT=<n>.
 """
-import json, os, sys
+import json, csv, sys
 import board_check as bc
-import csv
 
-SNAP = "snapshot.json"
-
-
-def load_csv():
-    try:
-        return list(csv.DictReader(open("applications.csv", newline="")))
-    except FileNotFoundError:
-        print("applications.csv not found"); sys.exit(0)
-
+SNAP="snapshot.json"
 
 def current_roles():
-    roles = {}
-    for r in load_csv():
-        ats, tok = r.get("ats", "").strip(), r.get("board_token", "").strip()
-        if not ats or not tok:
-            continue
-        found, err = bc.check_one(r["company"], ats, tok)
-        if err:
-            print(f"  ! {r['company']}: {err}")
-            continue
-        for title, loc, url in found:
-            roles[url or f"{r['company']}::{title}"] = {
-                "company": r["company"], "title": title, "location": loc, "url": url,
-            }
+    roles={}
+    # simple-slug from CSV
+    try:
+        for r in csv.DictReader(open("applications.csv",newline="")):
+            ats=r.get("ats","").lower(); tok=r.get("board_token","")
+            if ats in bc.SIMPLE and tok:
+                found,err=bc.check_simple(r["company"],ats,tok)
+                if err: print(f"  ! {r['company']}: {err}"); continue
+                for t,l,u in found:
+                    roles[u or f"{r['company']}::{t}"]={"company":r["company"],"title":t,"location":l,"url":u}
+    except FileNotFoundError: pass
+    # complex from boards_extra.json
+    try:
+        for e in json.load(open("boards_extra.json")):
+            if e.get("_skip"): continue
+            ats=e["ats"]; cfg=e["company_id"] if ats=="smartrecruiters" else e
+            found,err=bc.check_complex(e["company"],ats,cfg)
+            if err: print(f"  ! {e['company']}: {err}"); continue
+            for t,l,u in (found or []):
+                roles[u or f"{e['company']}::{t}"]={"company":e["company"],"title":t,"location":l,"url":u}
+    except FileNotFoundError: pass
     return roles
 
-
 def main():
-    cur = current_roles()
-    try:
-        old = json.load(open(SNAP))
-    except (FileNotFoundError, json.JSONDecodeError):
-        old = {}
-
-    new_keys = [k for k in cur if k not in old]
-    # persist union so we don't re-alert (and so removed roles drop out next cycle)
-    json.dump(cur, open(SNAP, "w"), indent=2)
-
-    if not new_keys:
-        print("NEW_COUNT=0")
-        return
-
-    lines = ["## New matching roles\n"]
-    by_co = {}
-    for k in new_keys:
-        by_co.setdefault(cur[k]["company"], []).append(cur[k])
-    for co, items in sorted(by_co.items()):
+    cur=current_roles()
+    try: old=json.load(open(SNAP))
+    except (FileNotFoundError,json.JSONDecodeError): old={}
+    new=[k for k in cur if k not in old]
+    json.dump(cur,open(SNAP,"w"),indent=2)
+    if not new: print("NEW_COUNT=0"); return
+    by={}
+    for k in new: by.setdefault(cur[k]["company"],[]).append(cur[k])
+    lines=["## New matching roles\n"]
+    for co,items in sorted(by.items()):
         lines.append(f"### {co}")
         for it in items:
-            loc = f" — {it['location']}" if it["location"] else ""
-            url = it["url"] or "(no url)"
-            lines.append(f"- **{it['title']}**{loc}\n  {url}")
+            loc=f" — {it['location']}" if it["location"] else ""
+            lines.append(f"- **{it['title']}**{loc}\n  {it['url'] or '(no url)'}")
         lines.append("")
-    open("new_roles.md", "w").write("\n".join(lines))
-    print(f"NEW_COUNT={len(new_keys)}")
+    open("new_roles.md","w").write("\n".join(lines))
+    print(f"NEW_COUNT={len(new)}")
 
-
-if __name__ == "__main__":
-    main()
+if __name__=="__main__": main()

@@ -8,7 +8,7 @@ Auto = notifier can watch it (on a public ATS). Manual = self-hosted, weekly han
 | Company | Pri | TC | Coverage | Role |
 |---|---|---|---|---|
 | Headlands | P1 | 200-300k | 🔧 verify | Software Developer |
-| Hudson River Trading | P1 | 300-400k | ✋ manual | Core Dev / Algo Dev / SWE |
+| Hudson River Trading | P1 | 300-400k | ✅ auto | Core Dev / Algo Dev / SWE |
 | Jump Trading | P1 | 300-400k | ✋ manual | Software Engineer |
 | Quantlab | P1 | 200-300k | 🔧 verify | Software Engineer |
 | Tower Research | P1 | 200-300k | ✋ manual | Software Engineer |
@@ -90,38 +90,38 @@ Auto = notifier can watch it (on a public ATS). Manual = self-hosted, weekly han
 |---|---|---|---|---|
 | Anthropic | P1 | 300-450k+ | ✅ auto | Software Engineer |
 | Google DeepMind | P1 | 250-350k | ✋ manual | Software Engineer |
-| OpenAI | P1 | 300-500k+ | 🔧 verify | Software Engineer / MTS |
-| xAI | P1 | 250-450k | 🔧 verify | Software Engineer |
-| SSI | P2 | high, variable | 🔧 verify | Engineering (MTS) |
-| Thinking Machines Lab | P2 | high, variable | 🔧 verify | Engineering (MTS) |
+| OpenAI | P1 | 300-500k+ | ✅ auto | Software Engineer / MTS |
+| xAI | P1 | 250-450k | ✅ auto | Software Engineer |
+| SSI | P2 | high, variable | ✋ manual | Engineering (MTS) |
+| Thinking Machines Lab | P2 | high, variable | ✋ manual | Engineering (MTS) |
 
 ## Startups — AI Infra/Dev Tools (12)
 
 | Company | Pri | TC | Coverage | Role |
 |---|---|---|---|---|
-| Anysphere (Cursor) | P1 | 250k+ | 🔧 verify | Software Engineer |
-| Databricks | P1 | 200-280k | 🔧 verify | Software Engineer |
-| Baseten | P2 | 180-250k+eq | 🔧 verify | Software Engineer |
-| ClickHouse | P2 | 180-260k+eq | 🔧 verify | Software Engineer |
-| Crusoe | P2 | 180-250k+eq | 🔧 verify | Software Engineer |
-| Fireworks AI | P2 | 180-250k+eq | 🔧 verify | Software Engineer |
-| Modal Labs | P2 | 180-250k+eq | 🔧 verify | Software Engineer |
-| Together AI | P2 | 180-250k+eq | 🔧 verify | Software Engineer |
-| Exa | P3 | 180-250k+eq | 🔧 verify | Software Engineer |
-| Factory AI | P3 | variable+eq | 🔧 verify | Software Engineer |
-| Lambda Labs | P3 | 170-240k+eq | 🔧 verify | Software Engineer |
-| Poolside | P3 | high, variable | 🔧 verify | Software Engineer |
+| Anysphere (Cursor) | P1 | 250k+ | ✅ auto | Software Engineer |
+| Databricks | P1 | 200-280k | ✅ auto | Software Engineer |
+| Baseten | P2 | 180-250k+eq | ✅ auto | Software Engineer |
+| ClickHouse | P2 | 180-260k+eq | ✅ auto | Software Engineer |
+| Crusoe | P2 | 180-250k+eq | ✅ auto | Software Engineer |
+| Fireworks AI | P2 | 180-250k+eq | ✅ auto | Software Engineer |
+| Modal Labs | P2 | 180-250k+eq | ✅ auto | Software Engineer |
+| Together AI | P2 | 180-250k+eq | ✅ auto | Software Engineer |
+| Exa | P3 | 180-250k+eq | ✅ auto | Software Engineer |
+| Factory AI | P3 | variable+eq | ✋ manual | Software Engineer |
+| Lambda Labs | P3 | 170-240k+eq | ✅ auto | Software Engineer |
+| Poolside | P3 | high, variable | ✅ auto | Software Engineer |
 
 ## Startups — AI App Layer (9)
 
 | Company | Pri | TC | Coverage | Role |
 |---|---|---|---|---|
-| Applied Intuition | P3 | 200-280k+eq | 🔧 verify | Software Engineer |
+| Applied Intuition | P3 | 200-280k+eq | ✅ auto | Software Engineer |
 | Clay | P3 | variable+eq | 🔧 verify | Software Engineer |
-| Decagon | P3 | variable+eq | 🔧 verify | Software Engineer |
-| Glean | P3 | variable+eq | 🔧 verify | Software Engineer |
-| Harvey | P3 | variable+eq | 🔧 verify | Software Engineer |
-| Ramp | P3 | 180-250k+eq | 🔧 verify | Software Engineer |
+| Decagon | P3 | variable+eq | ✅ auto | Software Engineer |
+| Glean | P3 | variable+eq | ✅ auto | Software Engineer |
+| Harvey | P3 | variable+eq | ✅ auto | Software Engineer |
+| Ramp | P3 | 180-250k+eq | ✅ auto | Software Engineer |
 | Sierra | P3 | variable+eq | 🔧 verify | Software Engineer |
 | Wispr Flow | P3 | variable+eq | 🔧 verify | Software Engineer |
 | TextQL | P4 | variable+eq | 🔧 verify | Software Engineer |
@@ -139,12 +139,12 @@ Auto = notifier can watch it (on a public ATS). Manual = self-hosted, weekly han
 | Company | Pri | TC | Coverage | Role |
 |---|---|---|---|---|
 | d-Matrix | P3 | 180-250k+eq | 🔧 verify | Software/Compiler Engineer |
-| Etched | P3 | 180-250k+eq | 🔧 verify | Software/Compiler Engineer |
-| Lightmatter | P3 | 180-250k+eq | 🔧 verify | Software Engineer |
+| Etched | P3 | 180-250k+eq | ✅ auto | Software/Compiler Engineer |
+| Lightmatter | P3 | 180-250k+eq | ✋ manual | Software Engineer |
 | MatX | P3 | variable+eq | 🔧 verify | Software/Compiler Engineer |
 | Positron | P3 | variable+eq | 🔧 verify | Software/Compiler Engineer |
 | Rivos | P3 | 180-250k+eq | 🔧 verify | Software Engineer |
-| Tenstorrent | P3 | 180-250k+eq | 🔧 verify | Software/Kernel Engineer |
+| Tenstorrent | P3 | 180-250k+eq | ✅ auto | Software/Kernel Engineer |
 
 ## Safety Net / Brand (5)
 
@@ -152,6 +152,6 @@ Auto = notifier can watch it (on a public ATS). Manual = self-hosted, weekly han
 |---|---|---|---|---|
 | Meta | P2 | 190k | ✋ manual | Software Engineer (E3) |
 | Netflix | P3 | 300k+ cash | ✋ manual | Software Engineer |
-| Notion | P3 | 180-230k | 🔧 verify | Software Engineer |
+| Notion | P3 | 180-230k | ✅ auto | Software Engineer |
 | Nvidia | P3 | 150-200k | ✋ manual | Software Engineer |
-| Pinterest | P3 | 180-230k | 🔧 verify | Software Engineer |
+| Pinterest | P3 | 180-230k | ✅ auto | Software Engineer |
