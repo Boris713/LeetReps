@@ -1,10 +1,5 @@
 /* ---------- Problem list ---------- */
-.list {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 20px;
-}
+.list {}
 
 .list__head {
   display: flex;

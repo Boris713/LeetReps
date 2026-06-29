@@ -1,39 +1,55 @@
 import { useState, useEffect } from 'react'
-import Header from './components/Header/Header.jsx'
+import Sidebar from './components/Sidebar/Sidebar.jsx'
 import Dashboard from './components/Dashboard/Dashboard.jsx'
 import Log from './components/Log/Log.jsx'
+import Companies from './components/Companies/Companies.jsx'
 import About from './components/About/About.jsx'
 import seedProblems from './data/seedProblems.js'
-import { loadState, saveState } from './utils/storage.js'
+import { dbLoad, dbSave } from './utils/db.js'
 import { nextLevel, isMastered } from './utils/spacedRepetition.js'
 import './App.css'
 
-/**
- * app is the single source of truth. it owns every piece of shared state,
- * persists it to localStorage, and passes data + callbacks down to children
- * through read-only props.
- */
 function App() {
   // useState #1 - string "mode" variable that switches the visible view.
-  const [view, setView] = useState('dashboard')
+  const [view, setView]             = useState('dashboard')
 
-  // useState #2 - the dynamic array of problems (loaded from storage if present).
-  const [problems, setProblems] = useState(() =>
-    loadState('leetreps.problems', seedProblems),
-  )
+  // useState #2 - false until Supabase data has loaded; shows a spinner meanwhile.
+  const [ready, setReady]           = useState(false)
 
-  // useState #3 - the weekly review goal.
-  const [goal, setGoal] = useState(() => loadState('leetreps.goal', 15))
+  // useState #3 - the dynamic array of problems.
+  const [problems, setProblems]     = useState(seedProblems)
 
-  // useState #4 - a log of review timestamps, used to measure goal progress.
-  const [reviewLog, setReviewLog] = useState(() =>
-    loadState('leetreps.log', []),
-  )
+  // useState #4 - the weekly review goal.
+  const [goal, setGoal]             = useState(15)
 
-  // persist each slice of state whenever it changes.
-  useEffect(() => saveState('leetreps.problems', problems), [problems])
-  useEffect(() => saveState('leetreps.goal', goal), [goal])
-  useEffect(() => saveState('leetreps.log', reviewLog), [reviewLog])
+  // useState #5 - a log of review timestamps, used to measure goal progress.
+  const [reviewLog, setReviewLog]   = useState([])
+
+  // useState #6 - per-company tracking data (status, notes, referral, dateApplied).
+  const [companyData, setCompanyData] = useState({})
+
+  // load all data from Supabase on first render.
+  useEffect(() => {
+    Promise.all([
+      dbLoad('problems',  seedProblems),
+      dbLoad('goal',      15),
+      dbLoad('log',       []),
+      dbLoad('companies', {}),
+    ]).then(([p, g, l, c]) => {
+      setProblems(p)
+      setGoal(g)
+      setReviewLog(l)
+      setCompanyData(c)
+      setReady(true)
+    })
+  }, [])
+
+  // sync each state slice to Supabase whenever it changes.
+  // the `ready` guard prevents overwriting cloud data with defaults during load.
+  useEffect(() => { if (ready) dbSave('problems',  problems)    }, [problems,  ready])
+  useEffect(() => { if (ready) dbSave('goal',      goal)        }, [goal,      ready])
+  useEffect(() => { if (ready) dbSave('log',       reviewLog)   }, [reviewLog, ready])
+  useEffect(() => { if (ready) dbSave('companies', companyData) }, [companyData, ready])
 
   // add a new problem (called by the controlled form).
   const addProblem = (problem) => {
@@ -46,6 +62,10 @@ function App() {
         lastRating: null,
         reviewCount: 0,
         notes: '',
+        patterns: [],
+        lists: [],
+        myDifficulty: 'Easy',
+        timeTaken: '<10 min',
         ...problem,
       },
       ...current,
@@ -75,16 +95,62 @@ function App() {
     setProblems((current) => current.filter((p) => p.id !== id))
   }
 
-  // save edited notes for a single problem (called from the Log modal).
-  const updateNotes = (id, notes) => {
+  // save edits to any problem fields (called from the detail modal).
+  const updateProblem = (id, updates) => {
     setProblems((current) =>
-      current.map((p) => (p.id === id ? { ...p, notes } : p)),
+      current.map((p) => (p.id === id ? { ...p, ...updates } : p)),
     )
+  }
+
+  // save edits to a company entry (status, notes, referral, dateApplied).
+  const updateCompany = (name, updates) => {
+    setCompanyData((cur) => ({ ...cur, [name]: { ...(cur[name] || {}), ...updates } }))
+  }
+
+  // export everything to a single JSON file — commit this to git as a manual backup.
+  const exportAll = () => {
+    const payload = {
+      version: 1,
+      exportedAt: new Date().toISOString(),
+      problems,
+      goal,
+      reviewLog,
+      companies: companyData,
+    }
+    const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' })
+    const url  = URL.createObjectURL(blob)
+    const a    = document.createElement('a')
+    a.href     = url
+    a.download = `leetreps-backup-${new Date().toISOString().slice(0, 10)}.json`
+    a.click()
+    URL.revokeObjectURL(url)
+  }
+
+  // import from a previously exported backup file.
+  const importAll = (e) => {
+    const file = e.target.files[0]
+    if (!file) return
+    const reader = new FileReader()
+    reader.onload = (ev) => {
+      try {
+        const data = JSON.parse(ev.target.result)
+        if (data.problems)  setProblems(data.problems)
+        if (data.goal)      setGoal(data.goal)
+        if (data.reviewLog) setReviewLog(data.reviewLog)
+        if (data.companies) setCompanyData(data.companies)
+      } catch { /* ignore malformed file */ }
+    }
+    reader.readAsText(file)
+    e.target.value = ''
+  }
+
+  if (!ready) {
+    return <div className="app-loading"><span className="mono">Loading…</span></div>
   }
 
   return (
     <div className="app-shell">
-      <Header view={view} onViewChange={setView} />
+      <Sidebar view={view} onViewChange={setView} onExport={exportAll} onImport={importAll} />
 
       <main className="app-main">
         {/* conditional multi-view layout - a state variable, no router. */}
@@ -93,25 +159,23 @@ function App() {
             problems={problems}
             goal={goal}
             reviewLog={reviewLog}
-            onAddProblem={addProblem}
             onReview={reviewProblem}
-            onRemove={removeProblem}
             onGoalChange={setGoal}
           />
         )}
-        {view === 'log' && (
+        {view === 'history' && (
           <Log
             problems={problems}
-            onUpdateNotes={updateNotes}
+            onAddProblem={addProblem}
+            onUpdateProblem={updateProblem}
             onRemove={removeProblem}
           />
         )}
+        {view === 'companies' && (
+          <Companies companyData={companyData} onUpdateCompany={updateCompany} />
+        )}
         {view === 'about' && <About />}
       </main>
-
-      <footer className="app-footer mono">
-        LeetReps · solve it, rate it, see it again right before you forget.
-      </footer>
     </div>
   )
 }

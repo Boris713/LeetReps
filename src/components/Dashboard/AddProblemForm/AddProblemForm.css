@@ -1,9 +1,4 @@
-/* ---------- Add problem form ---------- */
 .addform {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 20px;
   display: flex;
   flex-direction: column;
   gap: 14px;
@@ -12,6 +7,7 @@
 .addform__title {
   font-size: 1.05rem;
   font-weight: 700;
+  margin-bottom: 2px;
 }
 
 .addform__field {
@@ -28,39 +24,134 @@
   gap: 12px;
 }
 
-.addform__field input,
-.addform__field select {
-  font-family: inherit;
-  font-size: 0.9rem;
-  color: var(--text);
-  background: var(--surface-soft);
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  padding: 9px 11px;
-}
-
-.addform__field input:focus,
-.addform__field select:focus {
-  outline: 2px solid var(--primary);
-  outline-offset: 1px;
-}
-
-.addform__field input::placeholder {
-  color: #5e6b78;
-}
-
 .addform__submit {
   margin-top: 4px;
   border: none;
   background: var(--primary);
-  color: #06241f;
+  color: #fff;
   font-weight: 700;
   font-size: 0.92rem;
   padding: 11px;
   border-radius: 8px;
-  transition: filter 0.2s ease;
+  transition: filter 0.15s;
 }
 
 .addform__submit:hover {
-  filter: brightness(1.08);
+  filter: brightness(1.1);
+}
+
+/* tag input */
+.tag-input {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  min-height: 40px;
+  background: var(--surface-soft);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 6px 10px;
+  cursor: text;
+}
+
+.tag-input:focus-within {
+  border-color: var(--primary);
+}
+
+.tag-input__field {
+  border: none !important;
+  background: transparent !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  min-width: 80px;
+  flex: 1;
+  font-size: 0.88rem;
+  color: var(--text);
+  outline: none !important;
+}
+
+/* pattern pills (selected tags) */
+.pattern-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 3px 8px;
+  border-radius: 6px;
+  white-space: nowrap;
+}
+
+.pattern-pill__remove {
+  background: none;
+  border: none;
+  color: inherit;
+  font-size: 1rem;
+  line-height: 1;
+  padding: 0;
+  opacity: 0.7;
+  cursor: pointer;
+}
+
+.pattern-pill__remove:hover {
+  opacity: 1;
+}
+
+/* common pattern quick-pick chips */
+.pattern-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 4px;
+}
+
+.pattern-chip {
+  font-size: 0.75rem;
+  font-weight: 500;
+  padding: 4px 10px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text-muted);
+  transition: border-color 0.15s, color 0.15s, background 0.15s;
+}
+
+.pattern-chip:hover {
+  color: var(--text);
+  border-color: var(--text-muted);
+}
+
+.pattern-chip.is-active {
+  font-weight: 600;
+}
+
+/* multi-select list chips */
+.addform__list-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-top: 2px;
+}
+
+.list-chip {
+  font-size: 0.8rem;
+  font-weight: 500;
+  padding: 5px 12px;
+  border-radius: 7px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text-muted);
+  transition: border-color 0.12s, color 0.12s, background 0.12s;
+}
+
+.list-chip:hover {
+  color: var(--text);
+  border-color: var(--text-muted);
+}
+
+.list-chip.is-active {
+  background: var(--primary-soft);
+  color: var(--primary);
+  border-color: var(--primary);
+  font-weight: 600;
 }

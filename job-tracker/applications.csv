@@ -1,0 +1,99 @@
+company,category,priority,dev_role_to_search,expected_tc,ats,board_token,careers_url,coverage,status,date_applied,referral,notes
+Hudson River Trading,quant_hft,P1,Core Dev / Algo Dev / SWE,300-400k,,,,manual,not_started,,,C++/low-latency. Algo Dev can be eng-heavy — read JD.
+Jump Trading,quant_hft,P1,Software Engineer,300-400k,,,,manual,not_started,,,Low-latency/systems heavy.
+Virtu Financial,quant_hft,P1,Software Engineer,200-300k,,,,manual,not_started,,,
+Tower Research,quant_hft,P1,Software Engineer,200-300k,,,,manual,not_started,,,
+HAP Capital,quant_hft,P2,Software Engineer,200-300k,,,,auto_verify,not_started,,,Smaller — apply direct.
+Quantlab,quant_hft,P1,Software Engineer,200-300k,,,,auto_verify,not_started,,,Houston.
+Headlands,quant_hft,P1,Software Developer,200-300k,,,,auto_verify,not_started,,,C++ trading software. NOT Research Developer.
+Jane Street,quant_prop,P1,Software Engineer,350-400k,,,,manual,not_started,,,Highest-confidence target. OCaml. ~$300k base.
+Citadel Securities,quant_prop,P1,Software Engineer,300-400k,,,,manual,not_started,,,Market maker; huge eng org.
+IMC Trading,quant_prop,P1,Software Engineer,250-425k,,,,manual,not_started,,,Conversion offers reported high end.
+Optiver,quant_prop,P1,Software Engineer,250-350k,,,,manual,not_started,,,Options market maker.
+Akuna Capital,quant_prop,P1,Software Engineer,200-300k,,,,auto_verify,not_started,,,Chicago.
+DRW,quant_prop,P1,Software Developer,250-350k,,,,auto_verify,not_started,,,Skip Quant Trading Analyst (trader role).
+SIG,quant_prop,P1,Software Engineer,200-300k,,,,auto_verify,not_started,,,
+Five Rings,quant_prop,P1,Software Engineer,250-350k,,,,auto_verify,not_started,,,NYC.
+Chicago Trading Co (CTC),quant_prop,P1,Software Engineer,200-300k,,,,auto_verify,not_started,,,
+Old Mission Capital,quant_prop,P2,Software Engineer,200-300k,,,,auto_verify,not_started,,,Skip Junior Quant Trader.
+TransMarket Group,quant_prop,P2,Software Engineer,180-280k,,,,auto_verify,not_started,,,
+GTS,quant_prop,P2,Software Engineer,200-300k,,,,auto_verify,not_started,,,
+Volant Trading,quant_prop,P2,Software Engineer,180-280k,,,,auto_verify,not_started,,,
+Flow Traders,quant_prop,P2,Software Engineer,180-280k,,,,auto_verify,not_started,,,
+Radix Trading,quant_prop,P2,Software Developer,200-300k,,,,auto_verify,not_started,,,
+Wolverine Trading,quant_prop_small,P2,Software Engineer,180-280k,,,,auto_verify,not_started,,,
+Belvedere Trading,quant_prop_small,P2,Software Engineer,180-260k,,,,auto_verify,not_started,,,
+Group One Trading,quant_prop_small,P2,Software Engineer,180-260k,,,,auto_verify,not_started,,,
+Peak6,quant_prop_small,P2,Software Engineer,180-260k,,,,auto_verify,not_started,,,
+XR Trading,quant_prop_small,P2,Software Engineer,180-260k,,,,auto_verify,not_started,,,
+Eagle Seven,quant_prop_small,P3,Software Engineer,180-260k,,,,auto_verify,not_started,,,
+3Red Partners,quant_prop_small,P3,Software Engineer,180-260k,,,,auto_verify,not_started,,,
+Spot Trading,quant_prop_small,P3,Software Engineer,180-260k,,,,auto_verify,not_started,,,
+WH Trading,quant_prop_small,P3,Software Engineer,180-260k,,,,auto_verify,not_started,,,
+DV Trading,quant_prop_small,P3,Software Engineer,180-260k,,,,auto_verify,not_started,,,
+Millennium,quant_hf_mm,P2,Software Engineer / Quant Dev,200-350k,,,,manual,not_started,,,Central eng + pod-aligned dev.
+Point72 / Cubist,quant_hf_mm,P2,Software Engineer,200-300k,,,,manual,not_started,,,Has a formal new-grad Academy.
+Citadel (the fund),quant_hf_mm,P1,Software Engineer,300-400k,,,,manual,not_started,,,Separate from Citadel Securities — apply to both.
+Balyasny,quant_hf_mm,P2,Software Engineer,200-300k,,,,manual,not_started,,,
+ExodusPoint,quant_hf_mm,P3,Software Engineer,200-300k,,,,manual,not_started,,,
+WorldQuant,quant_hf_mm,P2,Software Engineer,180-280k,,,,manual,not_started,,,Runs a structured program.
+GSA Capital,quant_hf_mm,P2,Software Engineer,200-300k,,,,auto_verify,not_started,,,
+Tudor,quant_hf_mm,P3,Software Engineer,200-300k,,,,manual,not_started,,,
+Engineers Gate,quant_hf_mm,P3,Software Engineer,200-300k,,,,auto_verify,not_started,,,
+Schonfeld,quant_hf_mm,P2,Software Engineer,200-300k,,,,auto_verify,not_started,,,
+Verition,quant_hf_mm,P3,Software Engineer,200-300k,,,,auto_verify,not_started,,,
+Centiva,quant_hf_mm,P3,Software Engineer,180-280k,,,,auto_verify,not_started,,,
+Walleye,quant_hf_mm,P3,Software Engineer,180-280k,,,,auto_verify,not_started,,,
+DE Shaw,quant_hf_central,P1,Software Engineer / Quant Dev,250-400k,,,,manual,not_started,,,Strong central SWE pipeline.
+Two Sigma,quant_hf_central,P1,Software Engineer,250-350k,,,,manual,not_started,,,Tech-co-that-trades; strong eng.
+PDT Partners,quant_hf_central,P2,Software Engineer,200-350k,,,,manual,not_started,,,
+RenTec (Renaissance),quant_hf_central,P4,Software Engineer,300k+,,,,manual,not_started,,,Near-closed to new grads. Lottery.
+Bridgewater,quant_hf_central,P4,Software Engineer,180-260k,,,,manual,not_started,,,Macro/slower; research-flavored.
+AQR,quant_hf_central,P3,Software Engineer,180-280k,,,,manual,not_started,,,Has real eng but slower/quant-research lean.
+Squarepoint,quant_hf_central,P2,Software Engineer,200-300k,,,,manual,not_started,,,Systematic; real eng roles.
+Aquatic Capital,quant_hf_central,P3,Software Engineer,200-300k,,,,auto_verify,not_started,,,
+Voleon,quant_hf_central,P2,Software Engineer,200-300k,,,,auto_verify,not_started,,,ML-driven; technically deep.
+TGS,quant_hf_central,P2,Software Engineer,200-300k,,,,auto_verify,not_started,,,
+G-Research,quant_hf_central,P2,Software Engineer,200-300k,,,,manual,not_started,,,London; strong eng.
+OpenAI,ai_lab,P1,Software Engineer / MTS,300-500k+,,,,auto_verify,not_started,,,PRIORITY Band B entry point — runs structured early-career hiring. Ashby ATS.
+Anthropic,ai_lab,P1,Software Engineer,300-450k+,greenhouse,anthropic,https://job-boards.greenhouse.io/anthropic,auto,on_hold,,,No new-grad/university track; roles are Sr/Staff. Entry points: Fellows Program (research-leaning) or opportunistic referral hire. On Greenhouse so notifier will catch any entry-level req.
+xAI,ai_lab,P1,Software Engineer,250-450k,,,,auto_verify,not_started,,,PRIORITY Band B entry point — hires juniors more readily than Anthropic.
+Google DeepMind,ai_lab,P1,Software Engineer,250-350k,,,,manual,not_started,,,PRIORITY Band B entry point — Google's actual new-grad machinery. Apply via Google careers.
+Thinking Machines Lab,ai_lab,P2,Engineering (MTS),"high, variable",,,,auto_verify,not_started,,,"Early — more upside, less liquidity."
+SSI,ai_lab,P2,Engineering (MTS),"high, variable",,,,auto_verify,not_started,,,Very early/selective.
+Anysphere (Cursor),startup_infra,P1,Software Engineer,250k+,,,,auto_verify,on_hold,,Michelle,No new-grad/university team now; staff/senior focus. Michelle owns it if pipeline spins up (post-acq possible). Referral-only longshot — check back Q4.
+Databricks,startup_infra,P1,Software Engineer,200-280k,,,,auto_verify,not_started,,,High new-grad band; near-IPO.
+Modal Labs,startup_infra,P2,Software Engineer,180-250k+eq,,,,auto_verify,not_started,,,Serverless GPU infra; deep systems.
+Baseten,startup_infra,P2,Software Engineer,180-250k+eq,,,,auto_verify,not_started,,,Inference infra; fast-scaling ($11-13B).
+Together AI,startup_infra,P2,Software Engineer,180-250k+eq,,,,auto_verify,not_started,,,Inference/training infra.
+Fireworks AI,startup_infra,P2,Software Engineer,180-250k+eq,,,,auto_verify,not_started,,,Inference infra; technically deep.
+ClickHouse,startup_infra,P2,Software Engineer,180-260k+eq,,,,auto_verify,not_started,,,OLAP database; hard systems/C++.
+Crusoe,startup_infra,P2,Software Engineer,180-250k+eq,,,,auto_verify,not_started,,,AI cloud/datacenter infra.
+Lambda Labs,startup_infra,P3,Software Engineer,170-240k+eq,,,,auto_verify,not_started,,,GPU cloud; IPO-track.
+Exa,startup_infra,P3,Software Engineer,180-250k+eq,,,,auto_verify,not_started,,,Search/retrieval infra for AI.
+Poolside,startup_infra,P3,Software Engineer,"high, variable",,,,auto_verify,not_started,,,Coding model lab; deep tech.
+Factory AI,startup_infra,P3,Software Engineer,variable+eq,,,,auto_verify,not_started,,,Agentic coding; technically hard.
+Ramp,startup_app,P3,Software Engineer,180-250k+eq,,,,auto_verify,not_started,,,Fintech; strong growth.
+Harvey,startup_app,P3,Software Engineer,variable+eq,,,,auto_verify,not_started,,,Legal AI.
+Sierra,startup_app,P3,Software Engineer,variable+eq,,,,auto_verify,not_started,,,Agentic CX.
+Decagon,startup_app,P3,Software Engineer,variable+eq,,,,auto_verify,not_started,,,AI customer support; growing fast.
+Clay,startup_app,P3,Software Engineer,variable+eq,,,,auto_verify,not_started,,,GTM data.
+Glean,startup_app,P3,Software Engineer,variable+eq,,,,auto_verify,not_started,,,Enterprise search.
+Wispr Flow,startup_app,P3,Software Engineer,variable+eq,,,,auto_verify,not_started,,,"~$2B raise, great growth — but light technical moat (voice UI)."
+TextQL,startup_app,P4,Software Engineer,variable+eq,,,,auto_verify,not_started,,,Agentic analytics; technically interesting but early/small.
+Applied Intuition,startup_app,P3,Software Engineer,200-280k+eq,,,,auto_verify,not_started,,,AV; pays well. Has a defense arm.
+Physical Intelligence,startup_robotics,P3,Software Engineer,"high, variable",,,,auto_verify,not_started,,,Robot foundation models; elite team.
+Skild AI,startup_robotics,P3,Software Engineer,"high, variable",,,,auto_verify,not_started,,,Robotics foundation models.
+Figure,startup_robotics,P3,Software Engineer,180-260k+eq,,,,auto_verify,not_started,,,Humanoid robots; very hard tech.
+Etched,ai_hardware,P3,Software/Compiler Engineer,180-250k+eq,,,,auto_verify,not_started,,,Transformer ASIC.
+Positron,ai_hardware,P3,Software/Compiler Engineer,variable+eq,,,,auto_verify,not_started,,,
+Tenstorrent,ai_hardware,P3,Software/Kernel Engineer,180-250k+eq,,,,auto_verify,not_started,,,
+d-Matrix,ai_hardware,P3,Software/Compiler Engineer,180-250k+eq,,,,auto_verify,not_started,,,
+MatX,ai_hardware,P3,Software/Compiler Engineer,variable+eq,,,,auto_verify,not_started,,,
+Lightmatter,ai_hardware,P3,Software Engineer,180-250k+eq,,,,auto_verify,not_started,,,Photonic compute.
+Rivos,ai_hardware,P3,Software Engineer,180-250k+eq,,,,auto_verify,not_started,,,
+Meta,safety_net,P2,Software Engineer (E3),190k,,,,manual,not_started,,,"Your return — take it, leverage it."
+Netflix,safety_net,P3,Software Engineer,300k+ cash,,,,manual,not_started,,,Rarely hires new grads; high cash if so.
+Nvidia,safety_net,P3,Software Engineer,150-200k,,,,manual,not_started,,,Good for AI-hardware-adjacent dev.
+Notion,safety_net,P3,Software Engineer,180-230k,,,,auto_verify,not_started,,,
+Pinterest,safety_net,P3,Software Engineer,180-230k,,,,auto_verify,not_started,,,

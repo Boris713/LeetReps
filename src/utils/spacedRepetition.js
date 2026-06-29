@@ -60,3 +60,20 @@ export function dueLabel(problem) {
   if (days === 1) return 'Due tomorrow'
   return `Due in ${days}d`
 }
+
+// consecutive days (ending today) where at least one review was logged.
+export function calcStreak(reviewLog) {
+  if (!reviewLog.length) return 0
+  const fmt = (d) =>
+    `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
+  const days = new Set(reviewLog.map((ts) => fmt(new Date(ts))))
+  let streak = 0
+  const today = new Date()
+  for (let i = 0; ; i++) {
+    const d = new Date(today)
+    d.setDate(d.getDate() - i)
+    if (days.has(fmt(d))) streak++
+    else break
+  }
+  return streak
+}

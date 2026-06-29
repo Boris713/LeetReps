@@ -1,0 +1,46 @@
+.stat-cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.stat-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.stat-card__dot {
+  width: 36px;
+  height: 36px;
+  border-radius: 10px;
+  display: block;
+}
+
+.stat-card__dot--green  { background: rgba(74, 222, 128, 0.15); box-shadow: inset 0 0 0 1.5px rgba(74, 222, 128, 0.4); }
+.stat-card__dot--orange { background: rgba(251, 191, 36, 0.15);  box-shadow: inset 0 0 0 1.5px rgba(251, 191, 36, 0.4); }
+.stat-card__dot--blue   { background: rgba(96, 165, 250, 0.15); box-shadow: inset 0 0 0 1.5px rgba(96, 165, 250, 0.4); }
+.stat-card__dot--purple { background: rgba(132, 102, 204, 0.2); box-shadow: inset 0 0 0 1.5px rgba(132, 102, 204, 0.5); }
+
+.stat-card__value {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--text);
+  line-height: 1;
+}
+
+.stat-card__label {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+@media (max-width: 640px) {
+  .stat-cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

@@ -1,0 +1,43 @@
+name: Check job boards
+
+on:
+  schedule:
+    - cron: '0 13 * * *'      # daily ~8-9am ET
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: job-tracker     # <-- code lives in the subfolder
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+
+      - name: Run notifier
+        id: run
+        run: |
+          python3 notify.py | tee out.txt
+          echo "new_count=$(grep -oP 'NEW_COUNT=\K[0-9]+' out.txt || echo 0)" >> "$GITHUB_OUTPUT"
+
+      - name: Commit snapshot
+        run: |
+          git config user.name  "job-bot"
+          git config user.email "job-bot@users.noreply.github.com"
+          git add snapshot.json
+          git commit -m "update job snapshot [skip ci]" || echo "no changes"
+          git push || echo "nothing to push"
+
+      - name: Open issue if new roles
+        if: steps.run.outputs.new_count != '0'
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "🔔 ${{ steps.run.outputs.new_count }} new role(s) opened"
+          content-filepath: job-tracker/new_roles.md
+          labels: new-roles

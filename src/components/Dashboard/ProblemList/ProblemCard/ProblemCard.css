@@ -46,9 +46,12 @@
   background: rgba(248, 113, 113, 0.12);
 }
 
-.problem__pattern {
-  font-size: 0.8rem;
-  color: var(--text-muted);
+.pattern-pill {
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 6px;
+  white-space: nowrap;
 }
 
 .problem__title {
@@ -72,6 +75,16 @@
 .problem__meta a {
   text-decoration: none;
   font-weight: 500;
+}
+
+.problem__list-badge {
+  font-size: 0.7rem;
+  font-weight: 500;
+  padding: 2px 7px;
+  border-radius: 5px;
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  white-space: nowrap;
 }
 
 .problem__due {
@@ -117,20 +130,15 @@
   color: var(--easy);
 }
 
-/* Remove button (list mode) */
-.problem__remove {
-  flex-shrink: 0;
-  border: 1px solid var(--border);
-  background: var(--surface-soft);
-  color: var(--text-muted);
-  padding: 8px 11px;
-  border-radius: 8px;
-  transition: color 0.2s ease, border-color 0.2s ease;
+/* history mode — whole card is clickable */
+.problem--clickable {
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
 }
 
-.problem__remove:hover {
-  color: var(--hard);
-  border-color: var(--hard);
+.problem--clickable:hover {
+  border-color: var(--primary);
+  background: var(--surface-soft);
 }
 
 @media (max-width: 480px) {

@@ -1,21 +1,25 @@
-/* ---------- App layout shell ---------- */
+.app-loading {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
 .app-shell {
-  min-height: 100vh;
   display: flex;
-  flex-direction: column;
+  min-height: 100vh;
 }
 
 .app-main {
-  width: 100%;
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 28px 20px 48px;
   flex: 1;
+  padding: 36px 40px;
+  overflow-y: auto;
+  min-height: 100vh;
 }
 
-.app-footer {
-  text-align: center;
-  padding: 24px 20px 40px;
-  color: var(--text-muted);
-  font-size: 0.8rem;
+@media (max-width: 640px) {
+  .app-main {
+    padding: 20px 16px;
+  }
 }

@@ -1,33 +1,32 @@
-/* ---------- Log view ---------- */
 .log {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 22px;
-  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
 }
 
 .log__head {
   display: flex;
-  align-items: baseline;
+  align-items: center;
   justify-content: space-between;
 }
 
 .log__title {
-  font-size: 1.25rem;
+  font-size: 1.6rem;
   font-weight: 700;
+  letter-spacing: -0.02em;
 }
 
-.log__count {
-  font-size: 0.85rem;
-  color: var(--primary);
-  background: var(--primary-soft);
-  padding: 4px 12px;
-  border-radius: 999px;
+.log__add-btn {
+  background: var(--primary);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 18px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  transition: filter 0.15s;
 }
 
-.log__hint {
-  font-size: 0.82rem;
-  color: var(--text-muted);
-  margin: 6px 0 16px;
+.log__add-btn:hover {
+  filter: brightness(1.1);
 }
