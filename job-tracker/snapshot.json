@@ -955,7 +955,7 @@
   },
   "https://jobs.ashbyhq.com/openai/eefeb527-4e36-432e-a787-88e4672e29e1": {
     "company": "OpenAI",
-    "title": "Software Engineer, Codex Security",
+    "title": "Software Engineer, Codex Cyber",
     "location": "",
     "url": "https://jobs.ashbyhq.com/openai/eefeb527-4e36-432e-a787-88e4672e29e1"
   },
@@ -1019,17 +1019,17 @@
     "location": "San Francisco, CA | New York City, NY | Seattle, WA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5174743008"
   },
-  "https://job-boards.greenhouse.io/anthropic/jobs/5152348008": {
-    "company": "Anthropic",
-    "title": "Senior Software Engineer, Inference",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5152348008"
-  },
   "https://job-boards.greenhouse.io/anthropic/jobs/4641822008": {
     "company": "Anthropic",
     "title": "Senior Software Engineer, Inference",
     "location": "Dublin, IE",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4641822008"
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5152348008": {
+    "company": "Anthropic",
+    "title": "Senior Software Engineer, Inference",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5152348008"
   },
   "https://job-boards.greenhouse.io/anthropic/jobs/4981828008": {
     "company": "Anthropic",
@@ -1186,6 +1186,12 @@
     "title": "Staff+ Software Engineer, Databases",
     "location": "San Francisco, CA | New York City, NY | Seattle, WA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5301750008"
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5114768008": {
+    "company": "Anthropic",
+    "title": "Staff+ Software Engineer, Data Infrastructure",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5114768008"
   },
   "https://job-boards.greenhouse.io/anthropic/jobs/5290360008": {
     "company": "Anthropic",
@@ -1376,7 +1382,7 @@
   "https://job-boards.greenhouse.io/xai/jobs/5182374007": {
     "company": "xAI",
     "title": "Facilities Infrastructure Engineer (Data Center Infrastructure)",
-    "location": "Memphis, TN",
+    "location": "Memphis, TN; Southaven, MS",
     "url": "https://job-boards.greenhouse.io/xai/jobs/5182374007"
   },
   "https://job-boards.greenhouse.io/xai/jobs/4871633007": {
@@ -1427,6 +1433,12 @@
     "location": "Palo Alto, CA",
     "url": "https://job-boards.greenhouse.io/xai/jobs/4946696007"
   },
+  "https://job-boards.greenhouse.io/xai/jobs/5187964007": {
+    "company": "xAI",
+    "title": "Software Engineer - Network Software and Services   ",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5187964007"
+  },
   "https://job-boards.greenhouse.io/xai/jobs/4835611007": {
     "company": "xAI",
     "title": "Software Engineer - Platform Security",
@@ -1451,11 +1463,41 @@
     "location": "Palo Alto, CA",
     "url": "https://job-boards.greenhouse.io/xai/jobs/5182183007"
   },
-  "https://jobs.ashbyhq.com/cursor/010063bd-6083-4fc0-a455-e6f0193b5347": {
+  "https://jobs.ashbyhq.com/cursor/0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74": {
     "company": "Anysphere (Cursor)",
-    "title": "Software Engineer, Developer Productivity",
+    "title": "Software Engineer, Growth ",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/cursor/010063bd-6083-4fc0-a455-e6f0193b5347"
+    "url": "https://jobs.ashbyhq.com/cursor/0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74"
+  },
+  "https://jobs.ashbyhq.com/cursor/6d576a09-f30d-4e5e-bb58-5d7ef56cb511": {
+    "company": "Anysphere (Cursor)",
+    "title": "Software Engineer, Infrastructure",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/cursor/6d576a09-f30d-4e5e-bb58-5d7ef56cb511"
+  },
+  "https://jobs.ashbyhq.com/cursor/77bf35db-119c-4533-8187-1e8d5ae08c45": {
+    "company": "Anysphere (Cursor)",
+    "title": "Software Engineer, Core Services",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/cursor/77bf35db-119c-4533-8187-1e8d5ae08c45"
+  },
+  "https://jobs.ashbyhq.com/cursor/e08262e8-c089-488d-9b59-9e21f7702b64": {
+    "company": "Anysphere (Cursor)",
+    "title": "Software Engineer, Client Infrastructure",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/cursor/e08262e8-c089-488d-9b59-9e21f7702b64"
+  },
+  "https://jobs.ashbyhq.com/cursor/36e69353-0452-4bf6-9f35-b1e7307959a7": {
+    "company": "Anysphere (Cursor)",
+    "title": "Software Engineer, Generalist",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/cursor/36e69353-0452-4bf6-9f35-b1e7307959a7"
+  },
+  "https://jobs.ashbyhq.com/cursor/54a9cfcd-570a-4e9c-b52c-bd2336c60991": {
+    "company": "Anysphere (Cursor)",
+    "title": "Software Engineer, Enterprise ",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/cursor/54a9cfcd-570a-4e9c-b52c-bd2336c60991"
   },
   "https://jobs.ashbyhq.com/cursor/0aa0650b-f93c-416e-9e2f-4fdf1556fd14": {
     "company": "Anysphere (Cursor)",
@@ -1463,35 +1505,53 @@
     "location": "",
     "url": "https://jobs.ashbyhq.com/cursor/0aa0650b-f93c-416e-9e2f-4fdf1556fd14"
   },
-  "https://jobs.ashbyhq.com/cursor/0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74": {
-    "company": "Anysphere (Cursor)",
-    "title": "Software Engineer, Growth ",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/cursor/0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74"
-  },
-  "https://jobs.ashbyhq.com/cursor/299ce422-0281-4282-aadd-bc22553be0b5": {
-    "company": "Anysphere (Cursor)",
-    "title": "Software Engineer, Storage",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/cursor/299ce422-0281-4282-aadd-bc22553be0b5"
-  },
-  "https://jobs.ashbyhq.com/cursor/2bbe9f02-83a5-4173-98be-9085d1cb5693": {
-    "company": "Anysphere (Cursor)",
-    "title": "Software Engineer, Agent Evaluation and Quality",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/cursor/2bbe9f02-83a5-4173-98be-9085d1cb5693"
-  },
   "https://jobs.ashbyhq.com/cursor/3551cdaa-cf08-4c04-adbe-a968185bc769": {
     "company": "Anysphere (Cursor)",
     "title": "Software Engineer, Product ",
     "location": "",
     "url": "https://jobs.ashbyhq.com/cursor/3551cdaa-cf08-4c04-adbe-a968185bc769"
   },
-  "https://jobs.ashbyhq.com/cursor/36e69353-0452-4bf6-9f35-b1e7307959a7": {
+  "https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d": {
     "company": "Anysphere (Cursor)",
-    "title": "Software Engineer, Generalist",
+    "title": "Software Engineer, Agent Harness",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/cursor/36e69353-0452-4bf6-9f35-b1e7307959a7"
+    "url": "https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d"
+  },
+  "https://jobs.ashbyhq.com/cursor/94cc6684-9dbf-43f9-8ffc-405614e64ddd": {
+    "company": "Anysphere (Cursor)",
+    "title": "Software Engineer, Security",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/cursor/94cc6684-9dbf-43f9-8ffc-405614e64ddd"
+  },
+  "https://jobs.ashbyhq.com/cursor/88d47f97-0bea-448c-9abb-4720e4acf17a": {
+    "company": "Anysphere (Cursor)",
+    "title": "Software Engineer, Bugbot",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/cursor/88d47f97-0bea-448c-9abb-4720e4acf17a"
+  },
+  "https://jobs.ashbyhq.com/cursor/b6807f07-c4b7-4435-8c4c-0bef35865ad7": {
+    "company": "Anysphere (Cursor)",
+    "title": "Software Engineer, Enterprise Platform",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/cursor/b6807f07-c4b7-4435-8c4c-0bef35865ad7"
+  },
+  "https://jobs.ashbyhq.com/cursor/010063bd-6083-4fc0-a455-e6f0193b5347": {
+    "company": "Anysphere (Cursor)",
+    "title": "Software Engineer, Developer Productivity",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/cursor/010063bd-6083-4fc0-a455-e6f0193b5347"
+  },
+  "https://jobs.ashbyhq.com/cursor/8d07fe0f-34aa-458b-88e8-091469a963dc": {
+    "company": "Anysphere (Cursor)",
+    "title": "Software Engineer, ML Data Systems",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/cursor/8d07fe0f-34aa-458b-88e8-091469a963dc"
+  },
+  "https://jobs.ashbyhq.com/cursor/c66cde5e-9cb6-4a2e-a330-9323e1edf2a9": {
+    "company": "Anysphere (Cursor)",
+    "title": "Software Engineer, ML Infrastructure",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/cursor/c66cde5e-9cb6-4a2e-a330-9323e1edf2a9"
   },
   "https://jobs.ashbyhq.com/cursor/45c815b0-5100-4934-8558-0e750b8aed79": {
     "company": "Anysphere (Cursor)",
@@ -1505,71 +1565,11 @@
     "location": "",
     "url": "https://jobs.ashbyhq.com/cursor/47994d20-cc6a-436b-8da0-2eceabfd413e"
   },
-  "https://jobs.ashbyhq.com/cursor/54a9cfcd-570a-4e9c-b52c-bd2336c60991": {
+  "https://jobs.ashbyhq.com/cursor/2bbe9f02-83a5-4173-98be-9085d1cb5693": {
     "company": "Anysphere (Cursor)",
-    "title": "Software Engineer, Enterprise ",
+    "title": "Software Engineer, Agent Evaluation and Quality",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/cursor/54a9cfcd-570a-4e9c-b52c-bd2336c60991"
-  },
-  "https://jobs.ashbyhq.com/cursor/6d576a09-f30d-4e5e-bb58-5d7ef56cb511": {
-    "company": "Anysphere (Cursor)",
-    "title": "Software Engineer, Infrastructure",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/cursor/6d576a09-f30d-4e5e-bb58-5d7ef56cb511"
-  },
-  "https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d": {
-    "company": "Anysphere (Cursor)",
-    "title": "Software Engineer, Agent Harness",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d"
-  },
-  "https://jobs.ashbyhq.com/cursor/6eef7144-f2cc-48a8-b065-01f04e4c70ff": {
-    "company": "Anysphere (Cursor)",
-    "title": "Software Engineer, Services Platform",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/cursor/6eef7144-f2cc-48a8-b065-01f04e4c70ff"
-  },
-  "https://jobs.ashbyhq.com/cursor/77bf35db-119c-4533-8187-1e8d5ae08c45": {
-    "company": "Anysphere (Cursor)",
-    "title": "Software Engineer, Core Services",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/cursor/77bf35db-119c-4533-8187-1e8d5ae08c45"
-  },
-  "https://jobs.ashbyhq.com/cursor/88d47f97-0bea-448c-9abb-4720e4acf17a": {
-    "company": "Anysphere (Cursor)",
-    "title": "Software Engineer, Bugbot",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/cursor/88d47f97-0bea-448c-9abb-4720e4acf17a"
-  },
-  "https://jobs.ashbyhq.com/cursor/8d07fe0f-34aa-458b-88e8-091469a963dc": {
-    "company": "Anysphere (Cursor)",
-    "title": "Software Engineer, ML Data Systems",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/cursor/8d07fe0f-34aa-458b-88e8-091469a963dc"
-  },
-  "https://jobs.ashbyhq.com/cursor/94cc6684-9dbf-43f9-8ffc-405614e64ddd": {
-    "company": "Anysphere (Cursor)",
-    "title": "Software Engineer, Security",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/cursor/94cc6684-9dbf-43f9-8ffc-405614e64ddd"
-  },
-  "https://jobs.ashbyhq.com/cursor/b6807f07-c4b7-4435-8c4c-0bef35865ad7": {
-    "company": "Anysphere (Cursor)",
-    "title": "Software Engineer, Enterprise Platform",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/cursor/b6807f07-c4b7-4435-8c4c-0bef35865ad7"
-  },
-  "https://jobs.ashbyhq.com/cursor/c66cde5e-9cb6-4a2e-a330-9323e1edf2a9": {
-    "company": "Anysphere (Cursor)",
-    "title": "Software Engineer, ML Infrastructure",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/cursor/c66cde5e-9cb6-4a2e-a330-9323e1edf2a9"
-  },
-  "https://jobs.ashbyhq.com/cursor/e08262e8-c089-488d-9b59-9e21f7702b64": {
-    "company": "Anysphere (Cursor)",
-    "title": "Software Engineer, Client Infrastructure",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/cursor/e08262e8-c089-488d-9b59-9e21f7702b64"
+    "url": "https://jobs.ashbyhq.com/cursor/2bbe9f02-83a5-4173-98be-9085d1cb5693"
   },
   "https://jobs.ashbyhq.com/cursor/f2f84157-dfca-490b-801e-12fb37a02809": {
     "company": "Anysphere (Cursor)",
@@ -1577,11 +1577,23 @@
     "location": "",
     "url": "https://jobs.ashbyhq.com/cursor/f2f84157-dfca-490b-801e-12fb37a02809"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8509230002": {
+  "https://jobs.ashbyhq.com/cursor/299ce422-0281-4282-aadd-bc22553be0b5": {
+    "company": "Anysphere (Cursor)",
+    "title": "Software Engineer, Storage",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/cursor/299ce422-0281-4282-aadd-bc22553be0b5"
+  },
+  "https://jobs.ashbyhq.com/cursor/6eef7144-f2cc-48a8-b065-01f04e4c70ff": {
+    "company": "Anysphere (Cursor)",
+    "title": "Software Engineer, Services Platform",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/cursor/6eef7144-f2cc-48a8-b065-01f04e4c70ff"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8635216002": {
     "company": "Databricks",
-    "title": "Senior Software Engineer - AI Platform (NYC)",
-    "location": "New York City, New York",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8509230002"
+    "title": "Senior Software Engineer, AI Native Web Platform",
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8635216002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8582276002": {
     "company": "Databricks",
@@ -1595,29 +1607,29 @@
     "location": "Mountain View, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8183195002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=7477087002": {
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002": {
     "company": "Databricks",
     "title": "Senior Software Engineer - Backend",
-    "location": "Berlin, Germany",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7477087002"
-  },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002": {
-    "company": "Databricks",
-    "title": "Senior Software Engineer - Backend",
-    "location": "Mountain View, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002"
-  },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002": {
-    "company": "Databricks",
-    "title": "Senior Software Engineer - Backend",
-    "location": "San Francisco, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002"
+    "location": "Bellevue, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8093295002": {
     "company": "Databricks",
     "title": "Senior Software Engineer - Backend",
     "location": "Vancouver, Canada",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8093295002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=7477087002": {
+    "company": "Databricks",
+    "title": "Senior Software Engineer - Backend",
+    "location": "Berlin, Germany",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7477087002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002": {
+    "company": "Databricks",
+    "title": "Senior Software Engineer - Backend",
+    "location": "San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8029671002": {
     "company": "Databricks",
@@ -1631,11 +1643,11 @@
     "location": "Belgrade, Serbia",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012803002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002": {
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002": {
     "company": "Databricks",
     "title": "Senior Software Engineer - Backend",
-    "location": "Bellevue, Washington",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002"
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8233899002": {
     "company": "Databricks",
@@ -1649,11 +1661,11 @@
     "location": "Mountain View, California; San Francisco, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8012809002": {
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002": {
     "company": "Databricks",
     "title": "Senior Software Engineer - Database Engine Internals",
-    "location": "Belgrade, Serbia",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012809002"
+    "location": "San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=6544383002": {
     "company": "Databricks",
@@ -1661,11 +1673,11 @@
     "location": "Mountain View, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544383002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002": {
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8012809002": {
     "company": "Databricks",
     "title": "Senior Software Engineer - Database Engine Internals",
-    "location": "San Francisco, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002"
+    "location": "Belgrade, Serbia",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012809002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8012800002": {
     "company": "Databricks",
@@ -1691,11 +1703,17 @@
     "location": "Bellevue, Washington",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6936994002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002": {
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8635900002": {
+    "company": "Databricks",
+    "title": "Senior Software Engineer, Foundation Model API",
+    "location": "San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8635900002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002": {
     "company": "Databricks",
     "title": "Senior Software Engineer - Fullstack",
     "location": "Mountain View, California; San Francisco, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002"
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8029679002": {
     "company": "Databricks",
@@ -1709,23 +1727,17 @@
     "location": "Seattle, Washington",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002"
   },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002": {
+    "company": "Databricks",
+    "title": "Senior Software Engineer - Fullstack",
+    "location": "Mountain View, California; San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002"
+  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8099342002": {
     "company": "Databricks",
     "title": "Senior Software Engineer - Fullstack",
     "location": "Vancouver, Canada",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099342002"
-  },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002": {
-    "company": "Databricks",
-    "title": "Senior Software Engineer - Fullstack",
-    "location": "Mountain View, California; San Francisco, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002"
-  },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8509096002": {
-    "company": "Databricks",
-    "title": "Senior Software Engineer, Fullstack - AI Product (NYC)",
-    "location": "New York City, New York",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8509096002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002": {
     "company": "Databricks",
@@ -1811,6 +1823,18 @@
     "location": "Bengaluru, India",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7651345002"
   },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8303020002": {
+    "company": "Databricks",
+    "title": "Senior Staff Software Engineer - Delta",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8303020002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=7319791002": {
+    "company": "Databricks",
+    "title": "Senior Staff Software Engineer - Delta",
+    "location": "Berlin, Germany",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7319791002"
+  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8303014002": {
     "company": "Databricks",
     "title": "Senior Staff Software Engineer - Delta",
@@ -1823,23 +1847,11 @@
     "location": "Amsterdam, Netherlands",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8303015002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8303020002": {
-    "company": "Databricks",
-    "title": "Senior Staff Software Engineer - Delta",
-    "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8303020002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8303017002": {
     "company": "Databricks",
     "title": "Senior Staff Software Engineer - Delta",
     "location": "Z\u00fcrich, Switzerland",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8303017002"
-  },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=7319791002": {
-    "company": "Databricks",
-    "title": "Senior Staff Software Engineer - Delta",
-    "location": "Berlin, Germany",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7319791002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7934466002": {
     "company": "Databricks",
@@ -1847,17 +1859,17 @@
     "location": "Mountain View, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7934466002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002": {
-    "company": "Databricks",
-    "title": "Senior Staff Software Engineer - IAM",
-    "location": "Seattle, Washington",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7274563002": {
     "company": "Databricks",
     "title": "Senior Staff Software Engineer - IAM",
     "location": "Mountain View, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274563002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002": {
+    "company": "Databricks",
+    "title": "Senior Staff Software Engineer - IAM",
+    "location": "Seattle, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8493002002": {
     "company": "Databricks",
@@ -1895,17 +1907,17 @@
     "location": "Berlin, Germany",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407527002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8422483002": {
-    "company": "Databricks",
-    "title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
-    "location": "Z\u00fcrich, Switzerland",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422483002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8422484002": {
     "company": "Databricks",
     "title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
     "location": "Aarhus, Denmark",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422484002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8422483002": {
+    "company": "Databricks",
+    "title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
+    "location": "Z\u00fcrich, Switzerland",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422483002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8422481002": {
     "company": "Databricks",
@@ -1919,17 +1931,17 @@
     "location": "Amsterdam, Netherlands",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422477002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8029666002": {
-    "company": "Databricks",
-    "title": "Software Engineer - Backend",
-    "location": "Amsterdam, Netherlands",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029666002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8012650002": {
     "company": "Databricks",
     "title": "Software Engineer - Backend",
     "location": "Belgrade, Serbia",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012650002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8029666002": {
+    "company": "Databricks",
+    "title": "Software Engineer - Backend",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029666002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8012658002": {
     "company": "Databricks",
@@ -1967,6 +1979,12 @@
     "location": "San Francisco, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8202670002"
   },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002": {
+    "company": "Databricks",
+    "title": "Software Engineer, Web Products",
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002"
+  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002": {
     "company": "Databricks",
     "title": "Software Engineer, Web Products",
@@ -1996,6 +2014,12 @@
     "title": "Sr Software Engineer- Customer Experience Intelligence (CXI)",
     "location": "Mountain View, California; San Francisco, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8416951002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8617901002": {
+    "company": "Databricks",
+    "title": "Sr Software Engineer- CXI",
+    "location": "Mountain View, California; San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8617901002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002": {
     "company": "Databricks",
@@ -2063,17 +2087,17 @@
     "location": "Mountain View, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8391889002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8575251002": {
-    "company": "Databricks",
-    "title": "Sr. Staff Software Engineer \u2014 Observability, Insights & Governance",
-    "location": "Bellevue, Washington; Seattle, Washington",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8575251002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8575248002": {
     "company": "Databricks",
     "title": "Sr. Staff Software Engineer \u2014 Observability, Insights & Governance",
     "location": "Mountain View, California; San Francisco, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8575248002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8575251002": {
+    "company": "Databricks",
+    "title": "Sr. Staff Software Engineer \u2014 Observability, Insights & Governance",
+    "location": "Bellevue, Washington; Seattle, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8575251002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7993609002": {
     "company": "Databricks",
@@ -2087,17 +2111,17 @@
     "location": "New York",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8468436002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8367023002": {
-    "company": "Databricks",
-    "title": "Staff Backend Software Engineer- (AI Platform)",
-    "location": "San Francisco, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8367023002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8367022002": {
     "company": "Databricks",
     "title": "Staff Backend Software Engineer- (AI Platform)",
     "location": "San Francisco, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8367022002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8367023002": {
+    "company": "Databricks",
+    "title": "Staff Backend Software Engineer- (AI Platform)",
+    "location": "San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8367023002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8367021002": {
     "company": "Databricks",
@@ -2123,11 +2147,23 @@
     "location": "Remote - California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002"
   },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8635182002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer, Agentic Applications",
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8635182002"
+  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8532681002": {
     "company": "Databricks",
     "title": "Staff Software Engineer - Agent Quality",
     "location": "New York City, New York",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8532681002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8635188002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer, AI Native Web Platform",
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8635188002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8560783002": {
     "company": "Databricks",
@@ -2141,17 +2177,17 @@
     "location": "New York City, New York",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8509536002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8552484002": {
-    "company": "Databricks",
-    "title": "Staff Software Engineer - AI Research Infrastructure",
-    "location": "New York City, New York; San Francisco, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8552484002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8532682002": {
     "company": "Databricks",
     "title": "Staff Software Engineer - AI Research Infrastructure",
     "location": "New York City, New York; San Francisco, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8532682002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8552484002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer - AI Research Infrastructure",
+    "location": "New York City, New York; San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8552484002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8582271002": {
     "company": "Databricks",
@@ -2165,41 +2201,11 @@
     "location": "Mountain View, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8578177002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=7984907002": {
-    "company": "Databricks",
-    "title": "Staff Software Engineer - Backend",
-    "location": "Berlin, Germany",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7984907002"
-  },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002": {
-    "company": "Databricks",
-    "title": "Staff Software Engineer - Backend",
-    "location": "San Francisco, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002"
-  },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8012814002": {
-    "company": "Databricks",
-    "title": "Staff Software Engineer - Backend",
-    "location": "Belgrade, Serbia",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012814002"
-  },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002": {
-    "company": "Databricks",
-    "title": "Staff Software Engineer - Backend",
-    "location": "Mountain View, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002": {
     "company": "Databricks",
     "title": "Staff Software Engineer - Backend",
     "location": "Seattle, Washington",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002"
-  },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002": {
-    "company": "Databricks",
-    "title": "Staff Software Engineer - Backend",
-    "location": "Bellevue, Washington",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8029674002": {
     "company": "Databricks",
@@ -2207,11 +2213,41 @@
     "location": "Amsterdam, Netherlands",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029674002"
   },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8012814002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Backend",
+    "location": "Belgrade, Serbia",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012814002"
+  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8320187002": {
     "company": "Databricks",
     "title": "Staff Software Engineer - Backend",
     "location": "Bengaluru, India",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8320187002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=7984907002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Backend",
+    "location": "Berlin, Germany",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7984907002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Backend",
+    "location": "Bellevue, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Backend",
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Backend",
+    "location": "San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8093293002": {
     "company": "Databricks",
@@ -2255,23 +2291,29 @@
     "location": "Mountain View, California; San Francisco, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8416959002"
   },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8584144002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer- CXI",
+    "location": "Mountain View, California; San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8584144002"
+  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=6544386002": {
     "company": "Databricks",
     "title": " Staff Software Engineer - Database Engine Internals",
     "location": "Mountain View, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544386002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=5646866002": {
-    "company": "Databricks",
-    "title": "Staff Software Engineer - Database Engine Internals",
-    "location": "San Francisco, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5646866002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8012818002": {
     "company": "Databricks",
     "title": "Staff Software Engineer - Database Engine Internals",
     "location": "Belgrade, Serbia",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012818002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=5646866002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Database Engine Internals",
+    "location": "San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5646866002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7601565002": {
     "company": "Databricks",
@@ -2291,17 +2333,17 @@
     "location": "Bengaluru, India",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7652016002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=6937001002": {
-    "company": "Databricks",
-    "title": "Staff Software Engineer - Distributed Data Systems",
-    "location": "Bellevue, Washington",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6937001002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002": {
     "company": "Databricks",
     "title": "Staff Software Engineer - Distributed Data Systems",
     "location": "Mountain View, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=6937001002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Distributed Data Systems",
+    "location": "Bellevue, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6937001002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002": {
     "company": "Databricks",
@@ -2351,17 +2393,17 @@
     "location": "San Francisco, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8202700002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=7994790002": {
-    "company": "Databricks",
-    "title": "Staff Software Engineer - IAM",
-    "location": "Bellevue, Washington",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994790002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7994801002": {
     "company": "Databricks",
     "title": "Staff Software Engineer - IAM",
     "location": "Mountain View, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994801002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=7994790002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer - IAM",
+    "location": "Bellevue, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994790002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7648674002": {
     "company": "Databricks",
@@ -2369,17 +2411,17 @@
     "location": "Bengaluru, India",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7648674002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8200692002": {
-    "company": "Databricks",
-    "title": "Staff Software Engineer - Ingestion",
-    "location": "Bengaluru, India",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200692002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8201686002": {
     "company": "Databricks",
     "title": "Staff Software Engineer - Ingestion",
     "location": "Bengaluru, India",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8201686002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8200692002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Ingestion",
+    "location": "Bengaluru, India",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200692002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8476582002": {
     "company": "Databricks",
@@ -2459,17 +2501,17 @@
     "location": "Bengaluru, India",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7958688002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002": {
-    "company": "Databricks",
-    "title": "Staff Software Engineer - Security Infrastructure",
-    "location": "Mountain View, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002": {
     "company": "Databricks",
     "title": "Staff Software Engineer - Security Infrastructure",
     "location": "Bellevue, Washington",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Security Infrastructure",
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7979523002": {
     "company": "Databricks",
@@ -2507,53 +2549,11 @@
     "location": "",
     "url": "https://jobs.ashbyhq.com/modal/b16126e4-cf92-4db9-955e-0da6eec0574d"
   },
-  "https://jobs.ashbyhq.com/baseten/081cb52b-5e88-40a1-8def-1e82c8bc97de": {
+  "https://jobs.ashbyhq.com/baseten/d29e748c-7209-460d-a024-8f77ae0a3d4d": {
     "company": "Baseten",
-    "title": "Software Engineer - Internal Platform",
+    "title": "Software Engineer - Model Performance",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/baseten/081cb52b-5e88-40a1-8def-1e82c8bc97de"
-  },
-  "https://jobs.ashbyhq.com/baseten/126d54b4-a7bc-4456-bf4d-5d224e4f5d63": {
-    "company": "Baseten",
-    "title": "Software Engineer - Training Product",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/baseten/126d54b4-a7bc-4456-bf4d-5d224e4f5d63"
-  },
-  "https://jobs.ashbyhq.com/baseten/1f7d7fda-5540-4205-890b-cdbf774f0814": {
-    "company": "Baseten",
-    "title": "Software Engineer \u2014 GPU Networking & Distributed Systems",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/baseten/1f7d7fda-5540-4205-890b-cdbf774f0814"
-  },
-  "https://jobs.ashbyhq.com/baseten/2fdb06a3-ea27-40ee-bf64-0d51e01b8464": {
-    "company": "Baseten",
-    "title": "Software Engineer - Model Products",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/baseten/2fdb06a3-ea27-40ee-bf64-0d51e01b8464"
-  },
-  "https://jobs.ashbyhq.com/baseten/6e396eb7-acb3-436a-89ec-05e755c477f2": {
-    "company": "Baseten",
-    "title": "Software Engineer - Voice AI (Inference Runtime)",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/baseten/6e396eb7-acb3-436a-89ec-05e755c477f2"
-  },
-  "https://jobs.ashbyhq.com/baseten/6f947409-2bc0-491a-81b3-507cdc95df85": {
-    "company": "Baseten",
-    "title": "Software Engineer - Training Infrastructure",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/baseten/6f947409-2bc0-491a-81b3-507cdc95df85"
-  },
-  "https://jobs.ashbyhq.com/baseten/75d7beac-0298-40fa-b206-2e0c0c08a64f": {
-    "company": "Baseten",
-    "title": "Software Engineer, Model Performance Systems",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/baseten/75d7beac-0298-40fa-b206-2e0c0c08a64f"
-  },
-  "https://jobs.ashbyhq.com/baseten/902a7ddb-c21f-4272-aaab-879680697986": {
-    "company": "Baseten",
-    "title": "Software Engineer - Capacity",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/baseten/902a7ddb-c21f-4272-aaab-879680697986"
+    "url": "https://jobs.ashbyhq.com/baseten/d29e748c-7209-460d-a024-8f77ae0a3d4d"
   },
   "https://jobs.ashbyhq.com/baseten/916e9d62-492a-4562-971f-3e97e3868392": {
     "company": "Baseten",
@@ -2567,41 +2567,11 @@
     "location": "",
     "url": "https://jobs.ashbyhq.com/baseten/ae64d1d4-7b0a-4be4-8d77-7f5ce63849a7"
   },
-  "https://jobs.ashbyhq.com/baseten/b88a68b7-d2bc-4a30-a79a-3ef292ad7c26": {
+  "https://jobs.ashbyhq.com/baseten/081cb52b-5e88-40a1-8def-1e82c8bc97de": {
     "company": "Baseten",
-    "title": "Software Engineer - AI Enablement",
+    "title": "Software Engineer - Internal Platform",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/baseten/b88a68b7-d2bc-4a30-a79a-3ef292ad7c26"
-  },
-  "https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73": {
-    "company": "Baseten",
-    "title": "Software Engineer- BIS (Baseten Inference Stack)",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73"
-  },
-  "https://jobs.ashbyhq.com/baseten/cf7fa477-0290-4846-9294-f7bc006ae997": {
-    "company": "Baseten",
-    "title": "Software Engineer- GPU Fabric Observability",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/baseten/cf7fa477-0290-4846-9294-f7bc006ae997"
-  },
-  "https://jobs.ashbyhq.com/baseten/d073254f-729c-471e-9a33-520358ead183": {
-    "company": "Baseten",
-    "title": "Software Engineer - Billing and Internal Tooling",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/baseten/d073254f-729c-471e-9a33-520358ead183"
-  },
-  "https://jobs.ashbyhq.com/baseten/d29e748c-7209-460d-a024-8f77ae0a3d4d": {
-    "company": "Baseten",
-    "title": "Software Engineer - Model Performance",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/baseten/d29e748c-7209-460d-a024-8f77ae0a3d4d"
-  },
-  "https://jobs.ashbyhq.com/baseten/dd166491-a4a2-4fb8-b42a-6a60e4049d15": {
-    "company": "Baseten",
-    "title": "OS / K8s Systems Engineer",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/baseten/dd166491-a4a2-4fb8-b42a-6a60e4049d15"
+    "url": "https://jobs.ashbyhq.com/baseten/081cb52b-5e88-40a1-8def-1e82c8bc97de"
   },
   "https://jobs.ashbyhq.com/baseten/ddb5bc98-6116-49a2-802e-1c05398663f1": {
     "company": "Baseten",
@@ -2614,6 +2584,78 @@
     "title": "Software Engineer - Enterprise Platform",
     "location": "",
     "url": "https://jobs.ashbyhq.com/baseten/e2638fb0-15c8-4109-b7ee-70df1325885d"
+  },
+  "https://jobs.ashbyhq.com/baseten/6f947409-2bc0-491a-81b3-507cdc95df85": {
+    "company": "Baseten",
+    "title": "Software Engineer - Training Infrastructure",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/baseten/6f947409-2bc0-491a-81b3-507cdc95df85"
+  },
+  "https://jobs.ashbyhq.com/baseten/2fdb06a3-ea27-40ee-bf64-0d51e01b8464": {
+    "company": "Baseten",
+    "title": "Software Engineer - Model Products",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/baseten/2fdb06a3-ea27-40ee-bf64-0d51e01b8464"
+  },
+  "https://jobs.ashbyhq.com/baseten/126d54b4-a7bc-4456-bf4d-5d224e4f5d63": {
+    "company": "Baseten",
+    "title": "Software Engineer - Training Product",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/baseten/126d54b4-a7bc-4456-bf4d-5d224e4f5d63"
+  },
+  "https://jobs.ashbyhq.com/baseten/75d7beac-0298-40fa-b206-2e0c0c08a64f": {
+    "company": "Baseten",
+    "title": "Software Engineer, Model Performance Systems",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/baseten/75d7beac-0298-40fa-b206-2e0c0c08a64f"
+  },
+  "https://jobs.ashbyhq.com/baseten/b88a68b7-d2bc-4a30-a79a-3ef292ad7c26": {
+    "company": "Baseten",
+    "title": "Software Engineer - AI Enablement",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/baseten/b88a68b7-d2bc-4a30-a79a-3ef292ad7c26"
+  },
+  "https://jobs.ashbyhq.com/baseten/1f7d7fda-5540-4205-890b-cdbf774f0814": {
+    "company": "Baseten",
+    "title": "Software Engineer \u2014 GPU Networking & Distributed Systems",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/baseten/1f7d7fda-5540-4205-890b-cdbf774f0814"
+  },
+  "https://jobs.ashbyhq.com/baseten/d073254f-729c-471e-9a33-520358ead183": {
+    "company": "Baseten",
+    "title": "Software Engineer - Billing and Internal Tooling",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/baseten/d073254f-729c-471e-9a33-520358ead183"
+  },
+  "https://jobs.ashbyhq.com/baseten/6e396eb7-acb3-436a-89ec-05e755c477f2": {
+    "company": "Baseten",
+    "title": "Software Engineer - Voice AI (Inference Runtime)",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/baseten/6e396eb7-acb3-436a-89ec-05e755c477f2"
+  },
+  "https://jobs.ashbyhq.com/baseten/dd166491-a4a2-4fb8-b42a-6a60e4049d15": {
+    "company": "Baseten",
+    "title": "OS / K8s Systems Engineer",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/baseten/dd166491-a4a2-4fb8-b42a-6a60e4049d15"
+  },
+  "https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73": {
+    "company": "Baseten",
+    "title": "Software Engineer- BIS (Baseten Inference Stack)",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73"
+  },
+  "https://jobs.ashbyhq.com/baseten/902a7ddb-c21f-4272-aaab-879680697986": {
+    "company": "Baseten",
+    "title": "Software Engineer - Capacity",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/baseten/902a7ddb-c21f-4272-aaab-879680697986"
+  },
+  "https://jobs.ashbyhq.com/baseten/cf7fa477-0290-4846-9294-f7bc006ae997": {
+    "company": "Baseten",
+    "title": "Software Engineer- GPU Fabric Observability",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/baseten/cf7fa477-0290-4846-9294-f7bc006ae997"
   },
   "https://job-boards.greenhouse.io/togetherai/jobs/5138540007": {
     "company": "Together AI",
@@ -2713,7 +2755,7 @@
   },
   "https://job-boards.greenhouse.io/fireworksai/jobs/4056271009": {
     "company": "Fireworks AI",
-    "title": " Software Engineer, AI Infrastructure",
+    "title": " Software Engineer, LLM Infrastructure",
     "location": "New York, NY; San Mateo, CA",
     "url": "https://job-boards.greenhouse.io/fireworksai/jobs/4056271009"
   },
@@ -2735,6 +2777,18 @@
     "location": "United States (remote)",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5686805004"
   },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/5767816004": {
+    "company": "ClickHouse",
+    "title": "Core Software Engineer (C++) - Remote",
+    "location": "India (remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5767816004"
+  },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/5755090004": {
+    "company": "ClickHouse",
+    "title": "Core Software Engineer (C++) - Remote",
+    "location": "Netherlands (remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5755090004"
+  },
   "https://job-boards.greenhouse.io/clickhouse/jobs/5755091004": {
     "company": "ClickHouse",
     "title": "Core Software Engineer (C++) - Remote",
@@ -2747,29 +2801,11 @@
     "location": "Germany (remote)",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5755092004"
   },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/5755090004": {
-    "company": "ClickHouse",
-    "title": "Core Software Engineer (C++) - Remote",
-    "location": "Netherlands (remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5755090004"
-  },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/5767816004": {
-    "company": "ClickHouse",
-    "title": "Core Software Engineer (C++) - Remote",
-    "location": "India (remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5767816004"
-  },
   "https://job-boards.greenhouse.io/clickhouse/jobs/5755093004": {
     "company": "ClickHouse",
     "title": "Core Software Engineer (C++) - Remote",
     "location": "United States (remote)",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5755093004"
-  },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/5584386004": {
-    "company": "ClickHouse",
-    "title": "Full Stack Software Engineer - Billing Team",
-    "location": "United States (remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5584386004"
   },
   "https://job-boards.greenhouse.io/clickhouse/jobs/5584382004": {
     "company": "ClickHouse",
@@ -2777,17 +2813,17 @@
     "location": "Germany (remote)",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5584382004"
   },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/5584386004": {
+    "company": "ClickHouse",
+    "title": "Full Stack Software Engineer - Billing Team",
+    "location": "United States (remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5584386004"
+  },
   "https://job-boards.greenhouse.io/clickhouse/jobs/5395374004": {
     "company": "ClickHouse",
     "title": "Full Stack Software Engineer - Billing Team",
     "location": "Netherlands (remote)",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5395374004"
-  },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/5587664004": {
-    "company": "ClickHouse",
-    "title": "Full Stack Software Engineer - Control Plane",
-    "location": "Netherlands (remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5587664004"
   },
   "https://job-boards.greenhouse.io/clickhouse/jobs/5587666004": {
     "company": "ClickHouse",
@@ -2801,17 +2837,11 @@
     "location": "Germany (remote)",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5587665004"
   },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/6001255004": {
+  "https://job-boards.greenhouse.io/clickhouse/jobs/5587664004": {
     "company": "ClickHouse",
-    "title": "Principal Software Engineer - Postgres",
-    "location": "India (remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6001255004"
-  },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/6001256004": {
-    "company": "ClickHouse",
-    "title": "Principal Software Engineer - Postgres",
-    "location": "Netherlands",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6001256004"
+    "title": "Full Stack Software Engineer - Control Plane",
+    "location": "Netherlands (remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5587664004"
   },
   "https://job-boards.greenhouse.io/clickhouse/jobs/6001254004": {
     "company": "ClickHouse",
@@ -2819,17 +2849,29 @@
     "location": "United States",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6001254004"
   },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/5777062004": {
+  "https://job-boards.greenhouse.io/clickhouse/jobs/6001256004": {
     "company": "ClickHouse",
-    "title": "Senior Full Stack Software Engineer - ClickPipes Platform",
-    "location": "Netherlands (remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5777062004"
+    "title": "Principal Software Engineer - Postgres",
+    "location": "Netherlands",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6001256004"
+  },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/6001255004": {
+    "company": "ClickHouse",
+    "title": "Principal Software Engineer - Postgres",
+    "location": "India (remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6001255004"
   },
   "https://job-boards.greenhouse.io/clickhouse/jobs/5777061004": {
     "company": "ClickHouse",
     "title": "Senior Full Stack Software Engineer - ClickPipes Platform",
     "location": "United Kingdom (remote)",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5777061004"
+  },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/5777062004": {
+    "company": "ClickHouse",
+    "title": "Senior Full Stack Software Engineer - ClickPipes Platform",
+    "location": "Netherlands (remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5777062004"
   },
   "https://job-boards.greenhouse.io/clickhouse/jobs/5777065004": {
     "company": "ClickHouse",
@@ -2861,11 +2903,11 @@
     "location": "United States (remote)",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6009092004"
   },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/5765673004": {
+  "https://job-boards.greenhouse.io/clickhouse/jobs/5765672004": {
     "company": "ClickHouse",
     "title": "Senior Software Engineer - Clickpipes (CDC/Streaming)",
-    "location": "United States (remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5765673004"
+    "location": "Canada (remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5765672004"
   },
   "https://job-boards.greenhouse.io/clickhouse/jobs/6015049004": {
     "company": "ClickHouse",
@@ -2879,23 +2921,29 @@
     "location": "United Kingdom",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6015050004"
   },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/5765673004": {
+    "company": "ClickHouse",
+    "title": "Senior Software Engineer - Clickpipes (CDC/Streaming)",
+    "location": "United States (remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5765673004"
+  },
   "https://job-boards.greenhouse.io/clickhouse/jobs/5765671004": {
     "company": "ClickHouse",
     "title": "Senior Software Engineer - Clickpipes (CDC/Streaming)",
     "location": "Germany (remote)",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5765671004"
   },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/5765672004": {
-    "company": "ClickHouse",
-    "title": "Senior Software Engineer - Clickpipes (CDC/Streaming)",
-    "location": "Canada (remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5765672004"
-  },
   "https://job-boards.greenhouse.io/clickhouse/jobs/5819676004": {
     "company": "ClickHouse",
     "title": "Senior Software Engineer - Cloud Infrastructure",
     "location": "Singapore (Remote)",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819676004"
+  },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/5819674004": {
+    "company": "ClickHouse",
+    "title": "Senior Software Engineer - Cloud Infrastructure",
+    "location": "United States(Remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819674004"
   },
   "https://job-boards.greenhouse.io/clickhouse/jobs/5819679004": {
     "company": "ClickHouse",
@@ -2915,35 +2963,11 @@
     "location": "London(Remote)",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819677004"
   },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/5819674004": {
-    "company": "ClickHouse",
-    "title": "Senior Software Engineer - Cloud Infrastructure",
-    "location": "United States(Remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819674004"
-  },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/6115280004": {
-    "company": "ClickHouse",
-    "title": "Senior Software Engineer - Cloud Partner Integrations",
-    "location": "Spain (remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6115280004"
-  },
   "https://job-boards.greenhouse.io/clickhouse/jobs/6115277004": {
     "company": "ClickHouse",
     "title": "Senior Software Engineer - Cloud Partner Integrations",
     "location": "United States (remote)",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6115277004"
-  },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/6115276004": {
-    "company": "ClickHouse",
-    "title": "Senior Software Engineer - Cloud Partner Integrations",
-    "location": "Canada (remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6115276004"
-  },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/6115275004": {
-    "company": "ClickHouse",
-    "title": "Senior Software Engineer - Cloud Partner Integrations",
-    "location": "Germany (remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6115275004"
   },
   "https://job-boards.greenhouse.io/clickhouse/jobs/6116420004": {
     "company": "ClickHouse",
@@ -2951,17 +2975,29 @@
     "location": "UK (remote)",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6116420004"
   },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/6115276004": {
+    "company": "ClickHouse",
+    "title": "Senior Software Engineer - Cloud Partner Integrations",
+    "location": "Canada (remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6115276004"
+  },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/6115280004": {
+    "company": "ClickHouse",
+    "title": "Senior Software Engineer - Cloud Partner Integrations",
+    "location": "Spain (remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6115280004"
+  },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/6115275004": {
+    "company": "ClickHouse",
+    "title": "Senior Software Engineer - Cloud Partner Integrations",
+    "location": "Germany (remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6115275004"
+  },
   "https://job-boards.greenhouse.io/clickhouse/jobs/6115279004": {
     "company": "ClickHouse",
     "title": "Senior Software Engineer - Cloud Partner Integrations",
     "location": "Tel Aviv ",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6115279004"
-  },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/6018901004": {
-    "company": "ClickHouse",
-    "title": "Senior Software Engineer - Identity & Authorization Platform",
-    "location": "Canada (remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6018901004"
   },
   "https://job-boards.greenhouse.io/clickhouse/jobs/6018899004": {
     "company": "ClickHouse",
@@ -2969,17 +3005,11 @@
     "location": "United States (remote)",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6018899004"
   },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/6000803004": {
+  "https://job-boards.greenhouse.io/clickhouse/jobs/6018901004": {
     "company": "ClickHouse",
-    "title": "Senior Software Engineer - Java Streaming - Connectors",
-    "location": "United Kingdom (Remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6000803004"
-  },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/6000805004": {
-    "company": "ClickHouse",
-    "title": "Senior Software Engineer - Java Streaming - Connectors",
-    "location": "Germany (Remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6000805004"
+    "title": "Senior Software Engineer - Identity & Authorization Platform",
+    "location": "Canada (remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6018901004"
   },
   "https://job-boards.greenhouse.io/clickhouse/jobs/6000798004": {
     "company": "ClickHouse",
@@ -2993,11 +3023,17 @@
     "location": "Canada (Remote)",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6000799004"
   },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/6000796004": {
+  "https://job-boards.greenhouse.io/clickhouse/jobs/6000805004": {
     "company": "ClickHouse",
     "title": "Senior Software Engineer - Java Streaming - Connectors",
-    "location": "United States (Remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6000796004"
+    "location": "Germany (Remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6000805004"
+  },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/6000803004": {
+    "company": "ClickHouse",
+    "title": "Senior Software Engineer - Java Streaming - Connectors",
+    "location": "United Kingdom (Remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6000803004"
   },
   "https://job-boards.greenhouse.io/clickhouse/jobs/6000804004": {
     "company": "ClickHouse",
@@ -3005,23 +3041,11 @@
     "location": "Israel (Remote)",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6000804004"
   },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/6097167004": {
+  "https://job-boards.greenhouse.io/clickhouse/jobs/6000796004": {
     "company": "ClickHouse",
-    "title": "Senior Software Engineer - JVM Language Clients",
-    "location": "Spain (remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6097167004"
-  },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/5973223004": {
-    "company": "ClickHouse",
-    "title": "Senior Software Engineer - JVM Language Clients",
-    "location": "Germany (remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5973223004"
-  },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/5973224004": {
-    "company": "ClickHouse",
-    "title": "Senior Software Engineer - JVM Language Clients",
-    "location": "Canada (remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5973224004"
+    "title": "Senior Software Engineer - Java Streaming - Connectors",
+    "location": "United States (Remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6000796004"
   },
   "https://job-boards.greenhouse.io/clickhouse/jobs/5973225004": {
     "company": "ClickHouse",
@@ -3029,23 +3053,29 @@
     "location": "United States (remote)",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5973225004"
   },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/5973223004": {
+    "company": "ClickHouse",
+    "title": "Senior Software Engineer - JVM Language Clients",
+    "location": "Germany (remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5973223004"
+  },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/6097167004": {
+    "company": "ClickHouse",
+    "title": "Senior Software Engineer - JVM Language Clients",
+    "location": "Spain (remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6097167004"
+  },
   "https://job-boards.greenhouse.io/clickhouse/jobs/6009656004": {
     "company": "ClickHouse",
     "title": "Senior Software Engineer - JVM Language Clients",
     "location": "Tel Aviv ",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6009656004"
   },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/5989605004": {
+  "https://job-boards.greenhouse.io/clickhouse/jobs/5973224004": {
     "company": "ClickHouse",
-    "title": "Senior Software Engineer - Postgres",
+    "title": "Senior Software Engineer - JVM Language Clients",
     "location": "Canada (remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5989605004"
-  },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/5989606004": {
-    "company": "ClickHouse",
-    "title": "Senior Software Engineer - Postgres",
-    "location": "India (remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5989606004"
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5973224004"
   },
   "https://job-boards.greenhouse.io/clickhouse/jobs/5989607004": {
     "company": "ClickHouse",
@@ -3053,23 +3083,17 @@
     "location": "United States (remote)",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5989607004"
   },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/6107516004": {
+  "https://job-boards.greenhouse.io/clickhouse/jobs/5989606004": {
     "company": "ClickHouse",
-    "title": "Senior Software Engineer - Python and Data Ecosystem",
-    "location": "Germany (remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107516004"
+    "title": "Senior Software Engineer - Postgres",
+    "location": "India (remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5989606004"
   },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/6107515004": {
+  "https://job-boards.greenhouse.io/clickhouse/jobs/5989605004": {
     "company": "ClickHouse",
-    "title": "Senior Software Engineer - Python and Data Ecosystem",
-    "location": "Canada (Remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107515004"
-  },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/6107514004": {
-    "company": "ClickHouse",
-    "title": "Senior Software Engineer - Python and Data Ecosystem",
-    "location": "United States (Remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107514004"
+    "title": "Senior Software Engineer - Postgres",
+    "location": "Canada (remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5989605004"
   },
   "https://job-boards.greenhouse.io/clickhouse/jobs/6107518004": {
     "company": "ClickHouse",
@@ -3077,23 +3101,41 @@
     "location": "Israel (remote)",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107518004"
   },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/6107515004": {
+    "company": "ClickHouse",
+    "title": "Senior Software Engineer - Python and Data Ecosystem",
+    "location": "Canada (Remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107515004"
+  },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/6107516004": {
+    "company": "ClickHouse",
+    "title": "Senior Software Engineer - Python and Data Ecosystem",
+    "location": "Germany (remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107516004"
+  },
   "https://job-boards.greenhouse.io/clickhouse/jobs/6107517004": {
     "company": "ClickHouse",
     "title": "Senior Software Engineer - Python and Data Ecosystem",
     "location": "UK (remote)",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107517004"
   },
-  "https://job-boards.greenhouse.io/clickhouse/jobs/5996876004": {
+  "https://job-boards.greenhouse.io/clickhouse/jobs/6107514004": {
     "company": "ClickHouse",
-    "title": "Senior Software Engineer (Typescript / FrontEnd) - AI/ML",
-    "location": "United States (remote)",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5996876004"
+    "title": "Senior Software Engineer - Python and Data Ecosystem",
+    "location": "United States (Remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107514004"
   },
   "https://job-boards.greenhouse.io/clickhouse/jobs/5999695004": {
     "company": "ClickHouse",
     "title": "Senior Software Engineer (Typescript / FrontEnd) - AI/ML",
     "location": "Canada",
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5999695004"
+  },
+  "https://job-boards.greenhouse.io/clickhouse/jobs/5996876004": {
+    "company": "ClickHouse",
+    "title": "Senior Software Engineer (Typescript / FrontEnd) - AI/ML",
+    "location": "United States (remote)",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5996876004"
   },
   "https://jobs.ashbyhq.com/crusoe/ccdaa39d-9a9a-4fbe-a27a-98b2522d6940": {
     "company": "Crusoe",
@@ -3449,101 +3491,29 @@
     "location": "",
     "url": "https://jobs.ashbyhq.com/exa/1f90ebb9-0f74-4a52-822a-d0ea6acdef4f"
   },
-  "https://jobs.ashbyhq.com/ramp/0ed80a29-6cca-42d7-b7e0-066d4fa7b37f": {
-    "company": "Ramp",
-    "title": "Staff Software Engineer | iOS",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/ramp/0ed80a29-6cca-42d7-b7e0-066d4fa7b37f"
-  },
-  "https://jobs.ashbyhq.com/ramp/1540a41f-d88f-4c89-9b08-5b9fade1ee81": {
-    "company": "Ramp",
-    "title": "Software Engineer, GTM Platform, Frontend",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/ramp/1540a41f-d88f-4c89-9b08-5b9fade1ee81"
-  },
-  "https://jobs.ashbyhq.com/ramp/198150d6-789a-4ef8-999f-93a49656d4f1": {
-    "company": "Ramp",
-    "title": "Software Engineer, Engineering Platform",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/ramp/198150d6-789a-4ef8-999f-93a49656d4f1"
-  },
-  "https://jobs.ashbyhq.com/ramp/2a4968ae-220c-471b-b890-a011de570bbb": {
-    "company": "Ramp",
-    "title": "Software Engineer, Bill Pay & Procurement",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/ramp/2a4968ae-220c-471b-b890-a011de570bbb"
-  },
-  "https://jobs.ashbyhq.com/ramp/42527ca9-03b9-499e-a5c4-18e4245af138": {
-    "company": "Ramp",
-    "title": "Software Engineer, Developer API",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/ramp/42527ca9-03b9-499e-a5c4-18e4245af138"
-  },
-  "https://jobs.ashbyhq.com/ramp/428f41e2-48e8-409d-b5e3-8053f7fc7a27": {
-    "company": "Ramp",
-    "title": "Senior Software Engineer | GTM Platform, Backend",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/ramp/428f41e2-48e8-409d-b5e3-8053f7fc7a27"
-  },
   "https://jobs.ashbyhq.com/ramp/4e64ab86-4e30-403b-b1b9-41dc052570ce": {
     "company": "Ramp",
     "title": "Software Engineer, Frontend",
     "location": "",
     "url": "https://jobs.ashbyhq.com/ramp/4e64ab86-4e30-403b-b1b9-41dc052570ce"
   },
-  "https://jobs.ashbyhq.com/ramp/5598f7b8-4ae2-4105-a2b4-2d0f55c54c40": {
+  "https://jobs.ashbyhq.com/ramp/ffc09fc0-7785-48db-a203-a148f62534be": {
     "company": "Ramp",
-    "title": "Software Engineer, Credit",
+    "title": "GTM Systems Engineer, Salesforce",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/ramp/5598f7b8-4ae2-4105-a2b4-2d0f55c54c40"
+    "url": "https://jobs.ashbyhq.com/ramp/ffc09fc0-7785-48db-a203-a148f62534be"
   },
-  "https://jobs.ashbyhq.com/ramp/5fe4c64e-9336-4384-9e6f-ff32eeb3fdae": {
+  "https://jobs.ashbyhq.com/ramp/0ed80a29-6cca-42d7-b7e0-066d4fa7b37f": {
     "company": "Ramp",
-    "title": "Software Engineer, Core Product",
+    "title": "Staff Software Engineer | iOS",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/ramp/5fe4c64e-9336-4384-9e6f-ff32eeb3fdae"
-  },
-  "https://jobs.ashbyhq.com/ramp/8d61885c-0f08-4267-8ace-69e28b1d3f38": {
-    "company": "Ramp",
-    "title": "Software Engineer, Web + Design",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/ramp/8d61885c-0f08-4267-8ace-69e28b1d3f38"
-  },
-  "https://jobs.ashbyhq.com/ramp/8fa367de-71ba-409e-befd-175a163acb1b": {
-    "company": "Ramp",
-    "title": "Software Engineer, Fraud & Identity",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/ramp/8fa367de-71ba-409e-befd-175a163acb1b"
-  },
-  "https://jobs.ashbyhq.com/ramp/9320454f-f2ca-4c19-82d2-b51b8d75fd3a": {
-    "company": "Ramp",
-    "title": "Software Engineer, Argentina",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/ramp/9320454f-f2ca-4c19-82d2-b51b8d75fd3a"
-  },
-  "https://jobs.ashbyhq.com/ramp/b42cce4b-8fa9-4e8d-892d-3a29a7afb909": {
-    "company": "Ramp",
-    "title": "Software Engineer, AI DevX",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/ramp/b42cce4b-8fa9-4e8d-892d-3a29a7afb909"
+    "url": "https://jobs.ashbyhq.com/ramp/0ed80a29-6cca-42d7-b7e0-066d4fa7b37f"
   },
   "https://jobs.ashbyhq.com/ramp/bca0346c-b843-4795-96df-6091f51e421b": {
     "company": "Ramp",
     "title": "Software Engineer, Data Platform ",
     "location": "",
     "url": "https://jobs.ashbyhq.com/ramp/bca0346c-b843-4795-96df-6091f51e421b"
-  },
-  "https://jobs.ashbyhq.com/ramp/be496b52-cfbf-494e-b862-61fb4a188b24": {
-    "company": "Ramp",
-    "title": "Software Engineer, Production Engineering",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/ramp/be496b52-cfbf-494e-b862-61fb4a188b24"
-  },
-  "https://jobs.ashbyhq.com/ramp/be75224c-854c-4a55-9da5-62ca2dcc09df": {
-    "company": "Ramp",
-    "title": "Software Engineer, International",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/ramp/be75224c-854c-4a55-9da5-62ca2dcc09df"
   },
   "https://jobs.ashbyhq.com/ramp/d1183b00-6590-4fe4-a585-28d84e578fe3": {
     "company": "Ramp",
@@ -3557,11 +3527,41 @@
     "location": "",
     "url": "https://jobs.ashbyhq.com/ramp/d818443f-d4c5-4eab-892d-3715a935c165"
   },
+  "https://jobs.ashbyhq.com/ramp/f5b60cf1-c0ec-42c1-89db-ece853e998ab": {
+    "company": "Ramp",
+    "title": "Software Engineer, Growth Platform",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/ramp/f5b60cf1-c0ec-42c1-89db-ece853e998ab"
+  },
   "https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f": {
     "company": "Ramp",
     "title": "Software Engineer, AI Forward Deployed",
     "location": "",
     "url": "https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f"
+  },
+  "https://jobs.ashbyhq.com/ramp/9320454f-f2ca-4c19-82d2-b51b8d75fd3a": {
+    "company": "Ramp",
+    "title": "Software Engineer, Argentina",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/ramp/9320454f-f2ca-4c19-82d2-b51b8d75fd3a"
+  },
+  "https://jobs.ashbyhq.com/ramp/5fe4c64e-9336-4384-9e6f-ff32eeb3fdae": {
+    "company": "Ramp",
+    "title": "Software Engineer, Core Product",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/ramp/5fe4c64e-9336-4384-9e6f-ff32eeb3fdae"
+  },
+  "https://jobs.ashbyhq.com/ramp/8fa367de-71ba-409e-befd-175a163acb1b": {
+    "company": "Ramp",
+    "title": "Software Engineer, Fraud & Identity",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/ramp/8fa367de-71ba-409e-befd-175a163acb1b"
+  },
+  "https://jobs.ashbyhq.com/ramp/5598f7b8-4ae2-4105-a2b4-2d0f55c54c40": {
+    "company": "Ramp",
+    "title": "Software Engineer, Credit",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/ramp/5598f7b8-4ae2-4105-a2b4-2d0f55c54c40"
   },
   "https://jobs.ashbyhq.com/ramp/ed2e9a94-f58e-4ff8-8853-afd977850d43": {
     "company": "Ramp",
@@ -3569,35 +3569,71 @@
     "location": "",
     "url": "https://jobs.ashbyhq.com/ramp/ed2e9a94-f58e-4ff8-8853-afd977850d43"
   },
+  "https://jobs.ashbyhq.com/ramp/2a4968ae-220c-471b-b890-a011de570bbb": {
+    "company": "Ramp",
+    "title": "Software Engineer, Bill Pay & Procurement",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/ramp/2a4968ae-220c-471b-b890-a011de570bbb"
+  },
+  "https://jobs.ashbyhq.com/ramp/b42cce4b-8fa9-4e8d-892d-3a29a7afb909": {
+    "company": "Ramp",
+    "title": "Software Engineer, AI DevX",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/ramp/b42cce4b-8fa9-4e8d-892d-3a29a7afb909"
+  },
+  "https://jobs.ashbyhq.com/ramp/42527ca9-03b9-499e-a5c4-18e4245af138": {
+    "company": "Ramp",
+    "title": "Software Engineer, Developer API",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/ramp/42527ca9-03b9-499e-a5c4-18e4245af138"
+  },
+  "https://jobs.ashbyhq.com/ramp/1540a41f-d88f-4c89-9b08-5b9fade1ee81": {
+    "company": "Ramp",
+    "title": "Software Engineer, GTM Platform, Frontend",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/ramp/1540a41f-d88f-4c89-9b08-5b9fade1ee81"
+  },
+  "https://jobs.ashbyhq.com/ramp/198150d6-789a-4ef8-999f-93a49656d4f1": {
+    "company": "Ramp",
+    "title": "Software Engineer, Engineering Platform",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/ramp/198150d6-789a-4ef8-999f-93a49656d4f1"
+  },
+  "https://jobs.ashbyhq.com/ramp/be496b52-cfbf-494e-b862-61fb4a188b24": {
+    "company": "Ramp",
+    "title": "Software Engineer, Production Engineering",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/ramp/be496b52-cfbf-494e-b862-61fb4a188b24"
+  },
+  "https://jobs.ashbyhq.com/ramp/428f41e2-48e8-409d-b5e3-8053f7fc7a27": {
+    "company": "Ramp",
+    "title": "Senior Software Engineer | GTM Platform, Backend",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/ramp/428f41e2-48e8-409d-b5e3-8053f7fc7a27"
+  },
+  "https://jobs.ashbyhq.com/ramp/8d61885c-0f08-4267-8ace-69e28b1d3f38": {
+    "company": "Ramp",
+    "title": "Software Engineer, Web + Design",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/ramp/8d61885c-0f08-4267-8ace-69e28b1d3f38"
+  },
   "https://jobs.ashbyhq.com/ramp/f1b3ca8d-d55f-4159-9a3b-f69ad0d981bc": {
     "company": "Ramp",
     "title": "Software Engineer, Onboarding",
     "location": "",
     "url": "https://jobs.ashbyhq.com/ramp/f1b3ca8d-d55f-4159-9a3b-f69ad0d981bc"
   },
-  "https://jobs.ashbyhq.com/ramp/f5b60cf1-c0ec-42c1-89db-ece853e998ab": {
+  "https://jobs.ashbyhq.com/ramp/be75224c-854c-4a55-9da5-62ca2dcc09df": {
     "company": "Ramp",
-    "title": "Software Engineer, Growth Platform",
+    "title": "Software Engineer, International",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/ramp/f5b60cf1-c0ec-42c1-89db-ece853e998ab"
+    "url": "https://jobs.ashbyhq.com/ramp/be75224c-854c-4a55-9da5-62ca2dcc09df"
   },
-  "https://jobs.ashbyhq.com/ramp/ffc09fc0-7785-48db-a203-a148f62534be": {
-    "company": "Ramp",
-    "title": "GTM Systems Engineer, Salesforce",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/ramp/ffc09fc0-7785-48db-a203-a148f62534be"
-  },
-  "https://jobs.ashbyhq.com/harvey/01da8934-d3e3-4ebb-beb9-681b3c24fb9c": {
+  "https://jobs.ashbyhq.com/harvey/748edfbe-f819-47fd-85bb-3c4974f8913f": {
     "company": "Harvey",
-    "title": "Staff Software Engineer, AI Platform",
+    "title": "Senior Software Engineer, Core Infrastructure",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/01da8934-d3e3-4ebb-beb9-681b3c24fb9c"
-  },
-  "https://jobs.ashbyhq.com/harvey/01f31ece-f3fe-4991-b6fb-b59f21faa8e9": {
-    "company": "Harvey",
-    "title": "Staff Software Engineer, Full Stack",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/01f31ece-f3fe-4991-b6fb-b59f21faa8e9"
+    "url": "https://jobs.ashbyhq.com/harvey/748edfbe-f819-47fd-85bb-3c4974f8913f"
   },
   "https://jobs.ashbyhq.com/harvey/04e17f81-d0a7-4f83-8526-ec4c9532ddcc": {
     "company": "Harvey",
@@ -3605,83 +3641,29 @@
     "location": "",
     "url": "https://jobs.ashbyhq.com/harvey/04e17f81-d0a7-4f83-8526-ec4c9532ddcc"
   },
-  "https://jobs.ashbyhq.com/harvey/04eb457b-e985-4e3b-9635-0a2b867ada97": {
+  "https://jobs.ashbyhq.com/harvey/c9cea360-f0b6-4a93-b7b3-0f0145b02ffe": {
     "company": "Harvey",
-    "title": "Senior Software Engineer, Agents",
+    "title": "Senior Software Engineer, Site Reliability Engineer ",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/04eb457b-e985-4e3b-9635-0a2b867ada97"
+    "url": "https://jobs.ashbyhq.com/harvey/c9cea360-f0b6-4a93-b7b3-0f0145b02ffe"
   },
-  "https://jobs.ashbyhq.com/harvey/04ee546e-7432-4154-abf2-cb3b2d7abf7a": {
+  "https://jobs.ashbyhq.com/harvey/4d661139-19ad-42af-9f6c-a68c71263e14": {
     "company": "Harvey",
-    "title": "Senior Software Engineer, Frontend",
+    "title": "Staff Software Engineer, Site Reliability Engineer ",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/04ee546e-7432-4154-abf2-cb3b2d7abf7a"
+    "url": "https://jobs.ashbyhq.com/harvey/4d661139-19ad-42af-9f6c-a68c71263e14"
   },
-  "https://jobs.ashbyhq.com/harvey/0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc": {
+  "https://jobs.ashbyhq.com/harvey/823658d8-21ae-46e5-ac93-1454e6527c63": {
     "company": "Harvey",
-    "title": "Software Engineer, Agents",
+    "title": "Senior Software Engineer, Developer Experience",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc"
+    "url": "https://jobs.ashbyhq.com/harvey/823658d8-21ae-46e5-ac93-1454e6527c63"
   },
-  "https://jobs.ashbyhq.com/harvey/0fd353e8-616d-44f4-b93a-bed92f15b043": {
+  "https://jobs.ashbyhq.com/harvey/6ad3902b-2888-4c02-913d-de942e807133": {
     "company": "Harvey",
-    "title": "Senior Software Engineer, Backend - NYC",
+    "title": "Staff Software Engineer, Backend",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/0fd353e8-616d-44f4-b93a-bed92f15b043"
-  },
-  "https://jobs.ashbyhq.com/harvey/10900071-f75f-49da-bff7-7e9db5e9b1f9": {
-    "company": "Harvey",
-    "title": "Senior Software Engineer, Full Stack - NYC",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/10900071-f75f-49da-bff7-7e9db5e9b1f9"
-  },
-  "https://jobs.ashbyhq.com/harvey/1406ae6f-1dfc-4b5a-985d-cccbffe283e1": {
-    "company": "Harvey",
-    "title": "Senior Software Engineer, Backend",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/1406ae6f-1dfc-4b5a-985d-cccbffe283e1"
-  },
-  "https://jobs.ashbyhq.com/harvey/14852d91-3ba5-46c9-8eca-311b8feb09c0": {
-    "company": "Harvey",
-    "title": "Staff Software Engineer - Developer Experience (DevEx)",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/14852d91-3ba5-46c9-8eca-311b8feb09c0"
-  },
-  "https://jobs.ashbyhq.com/harvey/18454695-e72d-40a5-a6c1-99677ef516ad": {
-    "company": "Harvey",
-    "title": "Senior Software Engineer, Backend",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/18454695-e72d-40a5-a6c1-99677ef516ad"
-  },
-  "https://jobs.ashbyhq.com/harvey/22635945-1052-45e7-9b13-f94aabce8e9b": {
-    "company": "Harvey",
-    "title": "Staff Software Engineer, Full Stack",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/22635945-1052-45e7-9b13-f94aabce8e9b"
-  },
-  "https://jobs.ashbyhq.com/harvey/24a1df80-c1b7-4e16-b938-1cb3b129463d": {
-    "company": "Harvey",
-    "title": "Staff Software Engineer, Agents",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/24a1df80-c1b7-4e16-b938-1cb3b129463d"
-  },
-  "https://jobs.ashbyhq.com/harvey/24f9a3fa-476a-490f-87bf-e8cebb7b3928": {
-    "company": "Harvey",
-    "title": "Frontend Platform Engineer",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/24f9a3fa-476a-490f-87bf-e8cebb7b3928"
-  },
-  "https://jobs.ashbyhq.com/harvey/2bd5b22c-d873-45da-a6d3-89944edb701c": {
-    "company": "Harvey",
-    "title": "Software Engineer, Agents",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/2bd5b22c-d873-45da-a6d3-89944edb701c"
-  },
-  "https://jobs.ashbyhq.com/harvey/3931a1b7-573d-4bd8-8fed-3fa8132c3201": {
-    "company": "Harvey",
-    "title": "Staff Software Engineer, Frontend - NYC",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/3931a1b7-573d-4bd8-8fed-3fa8132c3201"
+    "url": "https://jobs.ashbyhq.com/harvey/6ad3902b-2888-4c02-913d-de942e807133"
   },
   "https://jobs.ashbyhq.com/harvey/45a49240-f928-4547-93ec-cd3bf5b0191d": {
     "company": "Harvey",
@@ -3695,47 +3677,35 @@
     "location": "",
     "url": "https://jobs.ashbyhq.com/harvey/47d3d763-8c64-4e33-b76e-ca15f584c1fd"
   },
-  "https://jobs.ashbyhq.com/harvey/4a82c276-1113-41f6-baf9-a5be27e5c78f": {
+  "https://jobs.ashbyhq.com/harvey/7d4d8f8e-8c9b-4105-8136-0dbfe54c3512": {
     "company": "Harvey",
-    "title": "Staff Software Engineer, Core Infrastructure",
+    "title": "Staff Software Engineer, Frontend",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/4a82c276-1113-41f6-baf9-a5be27e5c78f"
+    "url": "https://jobs.ashbyhq.com/harvey/7d4d8f8e-8c9b-4105-8136-0dbfe54c3512"
   },
-  "https://jobs.ashbyhq.com/harvey/4d661139-19ad-42af-9f6c-a68c71263e14": {
+  "https://jobs.ashbyhq.com/harvey/b774c88e-5d8f-48d3-aed7-948f2e4292b7": {
     "company": "Harvey",
-    "title": "Staff Software Engineer, Site Reliability Engineer ",
+    "title": "Staff Software Engineer, Backend - NYC",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/4d661139-19ad-42af-9f6c-a68c71263e14"
+    "url": "https://jobs.ashbyhq.com/harvey/b774c88e-5d8f-48d3-aed7-948f2e4292b7"
   },
-  "https://jobs.ashbyhq.com/harvey/51fb953a-c494-4a09-8fe2-8d7268b863ec": {
+  "https://jobs.ashbyhq.com/harvey/01da8934-d3e3-4ebb-beb9-681b3c24fb9c": {
     "company": "Harvey",
-    "title": "Senior Software Engineer, AI Platform",
+    "title": "Staff Software Engineer, AI Platform",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/51fb953a-c494-4a09-8fe2-8d7268b863ec"
+    "url": "https://jobs.ashbyhq.com/harvey/01da8934-d3e3-4ebb-beb9-681b3c24fb9c"
   },
-  "https://jobs.ashbyhq.com/harvey/672f45e7-0689-4a6a-92e4-712beaa2eeca": {
+  "https://jobs.ashbyhq.com/harvey/f7c8e800-c0e4-4606-9860-9822103fe7e4": {
     "company": "Harvey",
-    "title": "Senior Software Engineer, Agents",
+    "title": "Staff Software Engineer, AI Platform",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/672f45e7-0689-4a6a-92e4-712beaa2eeca"
+    "url": "https://jobs.ashbyhq.com/harvey/f7c8e800-c0e4-4606-9860-9822103fe7e4"
   },
-  "https://jobs.ashbyhq.com/harvey/6ad3902b-2888-4c02-913d-de942e807133": {
+  "https://jobs.ashbyhq.com/harvey/10900071-f75f-49da-bff7-7e9db5e9b1f9": {
     "company": "Harvey",
-    "title": "Staff Software Engineer, Backend",
+    "title": "Senior Software Engineer, Full Stack - NYC",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/6ad3902b-2888-4c02-913d-de942e807133"
-  },
-  "https://jobs.ashbyhq.com/harvey/6cb0809d-923f-4119-a0d1-babb0c9289c4": {
-    "company": "Harvey",
-    "title": "Staff Software Engineer, Core Infrastructure",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/6cb0809d-923f-4119-a0d1-babb0c9289c4"
-  },
-  "https://jobs.ashbyhq.com/harvey/748edfbe-f819-47fd-85bb-3c4974f8913f": {
-    "company": "Harvey",
-    "title": "Senior Software Engineer, Core Infrastructure",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/748edfbe-f819-47fd-85bb-3c4974f8913f"
+    "url": "https://jobs.ashbyhq.com/harvey/10900071-f75f-49da-bff7-7e9db5e9b1f9"
   },
   "https://jobs.ashbyhq.com/harvey/7c71db12-6edb-441e-b76c-847ef6d00527": {
     "company": "Harvey",
@@ -3743,29 +3713,11 @@
     "location": "",
     "url": "https://jobs.ashbyhq.com/harvey/7c71db12-6edb-441e-b76c-847ef6d00527"
   },
-  "https://jobs.ashbyhq.com/harvey/7d4d8f8e-8c9b-4105-8136-0dbfe54c3512": {
+  "https://jobs.ashbyhq.com/harvey/daad560f-c851-4cb9-89ac-efb2186c4031": {
     "company": "Harvey",
-    "title": "Staff Software Engineer, Frontend",
+    "title": "Staff Software Engineer, OfficeJS",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/7d4d8f8e-8c9b-4105-8136-0dbfe54c3512"
-  },
-  "https://jobs.ashbyhq.com/harvey/823658d8-21ae-46e5-ac93-1454e6527c63": {
-    "company": "Harvey",
-    "title": "Senior Software Engineer, Developer Experience",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/823658d8-21ae-46e5-ac93-1454e6527c63"
-  },
-  "https://jobs.ashbyhq.com/harvey/8afd7e79-96be-413f-a8a8-391e7d2113e6": {
-    "company": "Harvey",
-    "title": "Senior Software Engineer, Frontend - NYC",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/8afd7e79-96be-413f-a8a8-391e7d2113e6"
-  },
-  "https://jobs.ashbyhq.com/harvey/8b16bcf7-9255-4859-8416-a7ff921032e6": {
-    "company": "Harvey",
-    "title": "Senior Staff Software Engineer, Backend",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/8b16bcf7-9255-4859-8416-a7ff921032e6"
+    "url": "https://jobs.ashbyhq.com/harvey/daad560f-c851-4cb9-89ac-efb2186c4031"
   },
   "https://jobs.ashbyhq.com/harvey/8c07cb74-765a-46ea-a0f1-795f45597d79": {
     "company": "Harvey",
@@ -3773,11 +3725,47 @@
     "location": "",
     "url": "https://jobs.ashbyhq.com/harvey/8c07cb74-765a-46ea-a0f1-795f45597d79"
   },
-  "https://jobs.ashbyhq.com/harvey/8e513820-55f8-4cbd-8bdd-28a67992469c": {
+  "https://jobs.ashbyhq.com/harvey/04eb457b-e985-4e3b-9635-0a2b867ada97": {
     "company": "Harvey",
-    "title": "Staff Software Engineer, Full Stack - NYC",
+    "title": "Senior Software Engineer, Agents",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/8e513820-55f8-4cbd-8bdd-28a67992469c"
+    "url": "https://jobs.ashbyhq.com/harvey/04eb457b-e985-4e3b-9635-0a2b867ada97"
+  },
+  "https://jobs.ashbyhq.com/harvey/01f31ece-f3fe-4991-b6fb-b59f21faa8e9": {
+    "company": "Harvey",
+    "title": "Staff Software Engineer, Full Stack",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/harvey/01f31ece-f3fe-4991-b6fb-b59f21faa8e9"
+  },
+  "https://jobs.ashbyhq.com/harvey/672f45e7-0689-4a6a-92e4-712beaa2eeca": {
+    "company": "Harvey",
+    "title": "Senior Software Engineer, Agents",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/harvey/672f45e7-0689-4a6a-92e4-712beaa2eeca"
+  },
+  "https://jobs.ashbyhq.com/harvey/f47e1925-2a89-4264-8a1b-09cd9215f4dd": {
+    "company": "Harvey",
+    "title": "Senior Software Engineer, AI Platform",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/harvey/f47e1925-2a89-4264-8a1b-09cd9215f4dd"
+  },
+  "https://jobs.ashbyhq.com/harvey/51fb953a-c494-4a09-8fe2-8d7268b863ec": {
+    "company": "Harvey",
+    "title": "Senior Software Engineer, AI Platform",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/harvey/51fb953a-c494-4a09-8fe2-8d7268b863ec"
+  },
+  "https://jobs.ashbyhq.com/harvey/4a82c276-1113-41f6-baf9-a5be27e5c78f": {
+    "company": "Harvey",
+    "title": "Staff Software Engineer, Core Infrastructure",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/harvey/4a82c276-1113-41f6-baf9-a5be27e5c78f"
+  },
+  "https://jobs.ashbyhq.com/harvey/22635945-1052-45e7-9b13-f94aabce8e9b": {
+    "company": "Harvey",
+    "title": "Staff Software Engineer, Full Stack",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/harvey/22635945-1052-45e7-9b13-f94aabce8e9b"
   },
   "https://jobs.ashbyhq.com/harvey/992183a0-4526-4ea6-be3d-799a2401da4f": {
     "company": "Harvey",
@@ -3785,17 +3773,101 @@
     "location": "",
     "url": "https://jobs.ashbyhq.com/harvey/992183a0-4526-4ea6-be3d-799a2401da4f"
   },
-  "https://jobs.ashbyhq.com/harvey/9b7ae8f4-773e-4f83-83fa-096d157ae00d": {
+  "https://jobs.ashbyhq.com/harvey/24f9a3fa-476a-490f-87bf-e8cebb7b3928": {
     "company": "Harvey",
-    "title": "Staff Software Engineer, Backend",
+    "title": "Frontend Platform Engineer",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/9b7ae8f4-773e-4f83-83fa-096d157ae00d"
+    "url": "https://jobs.ashbyhq.com/harvey/24f9a3fa-476a-490f-87bf-e8cebb7b3928"
+  },
+  "https://jobs.ashbyhq.com/harvey/6cb0809d-923f-4119-a0d1-babb0c9289c4": {
+    "company": "Harvey",
+    "title": "Staff Software Engineer, Core Infrastructure",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/harvey/6cb0809d-923f-4119-a0d1-babb0c9289c4"
+  },
+  "https://jobs.ashbyhq.com/harvey/c2d6c21b-1563-4000-a8a3-b751c79535da": {
+    "company": "Harvey",
+    "title": "Staff Software Engineer, Core Infrastructure",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/harvey/c2d6c21b-1563-4000-a8a3-b751c79535da"
+  },
+  "https://jobs.ashbyhq.com/harvey/1406ae6f-1dfc-4b5a-985d-cccbffe283e1": {
+    "company": "Harvey",
+    "title": "Senior Software Engineer, Backend",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/harvey/1406ae6f-1dfc-4b5a-985d-cccbffe283e1"
   },
   "https://jobs.ashbyhq.com/harvey/9cc08902-8916-47a8-a849-eec2c67ab3bd": {
     "company": "Harvey",
     "title": "Staff Software Engineer, Developer Experience",
     "location": "",
     "url": "https://jobs.ashbyhq.com/harvey/9cc08902-8916-47a8-a849-eec2c67ab3bd"
+  },
+  "https://jobs.ashbyhq.com/harvey/0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc": {
+    "company": "Harvey",
+    "title": "Software Engineer, Agents",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/harvey/0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc"
+  },
+  "https://jobs.ashbyhq.com/harvey/2bd5b22c-d873-45da-a6d3-89944edb701c": {
+    "company": "Harvey",
+    "title": "Software Engineer, Agents",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/harvey/2bd5b22c-d873-45da-a6d3-89944edb701c"
+  },
+  "https://jobs.ashbyhq.com/harvey/fc038666-be6f-4365-be8d-fb46e520473d": {
+    "company": "Harvey",
+    "title": "Staff Software Engineer, Agents",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/harvey/fc038666-be6f-4365-be8d-fb46e520473d"
+  },
+  "https://jobs.ashbyhq.com/harvey/24a1df80-c1b7-4e16-b938-1cb3b129463d": {
+    "company": "Harvey",
+    "title": "Staff Software Engineer, Agents",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/harvey/24a1df80-c1b7-4e16-b938-1cb3b129463d"
+  },
+  "https://jobs.ashbyhq.com/harvey/9b7ae8f4-773e-4f83-83fa-096d157ae00d": {
+    "company": "Harvey",
+    "title": "Staff Software Engineer, Backend",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/harvey/9b7ae8f4-773e-4f83-83fa-096d157ae00d"
+  },
+  "https://jobs.ashbyhq.com/harvey/14852d91-3ba5-46c9-8eca-311b8feb09c0": {
+    "company": "Harvey",
+    "title": "Staff Software Engineer - Developer Experience (DevEx)",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/harvey/14852d91-3ba5-46c9-8eca-311b8feb09c0"
+  },
+  "https://jobs.ashbyhq.com/harvey/8b16bcf7-9255-4859-8416-a7ff921032e6": {
+    "company": "Harvey",
+    "title": "Senior Staff Software Engineer, Backend",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/harvey/8b16bcf7-9255-4859-8416-a7ff921032e6"
+  },
+  "https://jobs.ashbyhq.com/harvey/b4f45d7f-6a88-40d5-83a6-e4db27f3e402": {
+    "company": "Harvey",
+    "title": "Senior Software Engineer, Full Stack",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/harvey/b4f45d7f-6a88-40d5-83a6-e4db27f3e402"
+  },
+  "https://jobs.ashbyhq.com/harvey/8e513820-55f8-4cbd-8bdd-28a67992469c": {
+    "company": "Harvey",
+    "title": "Staff Software Engineer, Full Stack - NYC",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/harvey/8e513820-55f8-4cbd-8bdd-28a67992469c"
+  },
+  "https://jobs.ashbyhq.com/harvey/bd54cfd8-933d-46a8-9796-e249b82cef7f": {
+    "company": "Harvey",
+    "title": "Staff Software Engineer, Backend",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/harvey/bd54cfd8-933d-46a8-9796-e249b82cef7f"
+  },
+  "https://jobs.ashbyhq.com/harvey/b8a48279-6b24-45c2-b101-3ae322ba5fb5": {
+    "company": "Harvey",
+    "title": "Senior Software Engineer, Core Infrastructure",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/harvey/b8a48279-6b24-45c2-b101-3ae322ba5fb5"
   },
   "https://jobs.ashbyhq.com/harvey/a9029fd7-bf08-400d-b56a-9d1eb71ad7da": {
     "company": "Harvey",
@@ -3809,65 +3881,35 @@
     "location": "",
     "url": "https://jobs.ashbyhq.com/harvey/b2a1a0eb-ed85-4e47-ac02-9f583734a47d"
   },
-  "https://jobs.ashbyhq.com/harvey/b4f45d7f-6a88-40d5-83a6-e4db27f3e402": {
+  "https://jobs.ashbyhq.com/harvey/18454695-e72d-40a5-a6c1-99677ef516ad": {
     "company": "Harvey",
-    "title": "Senior Software Engineer, Full Stack",
+    "title": "Senior Software Engineer, Backend",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/b4f45d7f-6a88-40d5-83a6-e4db27f3e402"
+    "url": "https://jobs.ashbyhq.com/harvey/18454695-e72d-40a5-a6c1-99677ef516ad"
   },
-  "https://jobs.ashbyhq.com/harvey/b774c88e-5d8f-48d3-aed7-948f2e4292b7": {
+  "https://jobs.ashbyhq.com/harvey/04ee546e-7432-4154-abf2-cb3b2d7abf7a": {
     "company": "Harvey",
-    "title": "Staff Software Engineer, Backend - NYC",
+    "title": "Senior Software Engineer, Frontend",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/b774c88e-5d8f-48d3-aed7-948f2e4292b7"
+    "url": "https://jobs.ashbyhq.com/harvey/04ee546e-7432-4154-abf2-cb3b2d7abf7a"
   },
-  "https://jobs.ashbyhq.com/harvey/b8a48279-6b24-45c2-b101-3ae322ba5fb5": {
+  "https://jobs.ashbyhq.com/harvey/0fd353e8-616d-44f4-b93a-bed92f15b043": {
     "company": "Harvey",
-    "title": "Senior Software Engineer, Core Infrastructure",
+    "title": "Senior Software Engineer, Backend - NYC",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/b8a48279-6b24-45c2-b101-3ae322ba5fb5"
+    "url": "https://jobs.ashbyhq.com/harvey/0fd353e8-616d-44f4-b93a-bed92f15b043"
   },
-  "https://jobs.ashbyhq.com/harvey/bd54cfd8-933d-46a8-9796-e249b82cef7f": {
+  "https://jobs.ashbyhq.com/harvey/3931a1b7-573d-4bd8-8fed-3fa8132c3201": {
     "company": "Harvey",
-    "title": "Staff Software Engineer, Backend",
+    "title": "Staff Software Engineer, Frontend - NYC",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/bd54cfd8-933d-46a8-9796-e249b82cef7f"
+    "url": "https://jobs.ashbyhq.com/harvey/3931a1b7-573d-4bd8-8fed-3fa8132c3201"
   },
-  "https://jobs.ashbyhq.com/harvey/c2d6c21b-1563-4000-a8a3-b751c79535da": {
+  "https://jobs.ashbyhq.com/harvey/8afd7e79-96be-413f-a8a8-391e7d2113e6": {
     "company": "Harvey",
-    "title": "Staff Software Engineer, Core Infrastructure",
+    "title": "Senior Software Engineer, Frontend - NYC",
     "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/c2d6c21b-1563-4000-a8a3-b751c79535da"
-  },
-  "https://jobs.ashbyhq.com/harvey/c9cea360-f0b6-4a93-b7b3-0f0145b02ffe": {
-    "company": "Harvey",
-    "title": "Senior Software Engineer, Site Reliability Engineer ",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/c9cea360-f0b6-4a93-b7b3-0f0145b02ffe"
-  },
-  "https://jobs.ashbyhq.com/harvey/daad560f-c851-4cb9-89ac-efb2186c4031": {
-    "company": "Harvey",
-    "title": "Staff Software Engineer, OfficeJS",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/daad560f-c851-4cb9-89ac-efb2186c4031"
-  },
-  "https://jobs.ashbyhq.com/harvey/f47e1925-2a89-4264-8a1b-09cd9215f4dd": {
-    "company": "Harvey",
-    "title": "Senior Software Engineer, AI Platform",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/f47e1925-2a89-4264-8a1b-09cd9215f4dd"
-  },
-  "https://jobs.ashbyhq.com/harvey/f7c8e800-c0e4-4606-9860-9822103fe7e4": {
-    "company": "Harvey",
-    "title": "Staff Software Engineer, AI Platform",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/f7c8e800-c0e4-4606-9860-9822103fe7e4"
-  },
-  "https://jobs.ashbyhq.com/harvey/fc038666-be6f-4365-be8d-fb46e520473d": {
-    "company": "Harvey",
-    "title": "Staff Software Engineer, Agents",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/harvey/fc038666-be6f-4365-be8d-fb46e520473d"
+    "url": "https://jobs.ashbyhq.com/harvey/8afd7e79-96be-413f-a8a8-391e7d2113e6"
   },
   "https://jobs.ashbyhq.com/decagon/90c40e13-345e-4855-944e-c8f6b462a78e": {
     "company": "Decagon",
