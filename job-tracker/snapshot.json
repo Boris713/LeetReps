@@ -29,17 +29,17 @@
     "location": "Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Singapore",
     "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122"
   },
-  "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7566004": {
-    "company": "Hudson River Trading",
-    "title": "Software Engineer - Distributed Compute",
-    "location": "Singapore",
-    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7566004"
-  },
   "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6703954": {
     "company": "Hudson River Trading",
     "title": "Software Engineer - Distributed Compute",
     "location": "London, United Kingdom; New York, NY, United States",
     "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6703954"
+  },
+  "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7566004": {
+    "company": "Hudson River Trading",
+    "title": "Software Engineer - Distributed Compute",
+    "location": "Singapore",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7566004"
   },
   "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6703952": {
     "company": "Hudson River Trading",
@@ -71,17 +71,17 @@
     "location": "Singapore",
     "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=1229082"
   },
-  "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7398013": {
-    "company": "Hudson River Trading",
-    "title": "Software Engineer - Python",
-    "location": "Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States",
-    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7398013"
-  },
   "https://www.hudsonrivertrading.com/careers/job/?gh_jid=4374565": {
     "company": "Hudson River Trading",
     "title": "Software Engineer - Python",
     "location": "Singapore",
     "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=4374565"
+  },
+  "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7398013": {
+    "company": "Hudson River Trading",
+    "title": "Software Engineer - Python",
+    "location": "Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7398013"
   },
   "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7583953": {
     "company": "Hudson River Trading",
@@ -322,12 +322,6 @@
     "title": "Software Engineer, Integrity Foundations - London",
     "location": "",
     "url": "https://jobs.ashbyhq.com/openai/46703db4-6023-4ac6-93a8-22dc95009945"
-  },
-  "https://jobs.ashbyhq.com/openai/57551641-208c-48d9-bfb8-9a298d7e7510": {
-    "company": "OpenAI",
-    "title": "Software Engineer, Fleet Hardware Health",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/openai/57551641-208c-48d9-bfb8-9a298d7e7510"
   },
   "https://jobs.ashbyhq.com/openai/2b5e8e15-7952-4170-a927-2ad68e318ed6": {
     "company": "OpenAI",
@@ -983,6 +977,12 @@
     "location": "",
     "url": "https://jobs.ashbyhq.com/openai/5df9e349-f8e1-4cfd-ba20-ec9e4115d564"
   },
+  "https://jobs.ashbyhq.com/openai/3b08148d-085e-4835-9934-1b7f60e0fdce": {
+    "company": "OpenAI",
+    "title": "Software Engineer, Manufacturing Infrastructure",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/openai/3b08148d-085e-4835-9934-1b7f60e0fdce"
+  },
   "https://jobs.ashbyhq.com/openai/f7d155c9-06e8-44f0-b2eb-bfa88707f2c1": {
     "company": "OpenAI",
     "title": "Full-Stack Software Engineer, Emerging Products",
@@ -1019,12 +1019,6 @@
     "location": "",
     "url": "https://jobs.ashbyhq.com/openai/b2250643-bfd0-4ce6-abbf-cb7e8c8123ba"
   },
-  "https://job-boards.greenhouse.io/anthropic/jobs/4973067008": {
-    "company": "Anthropic",
-    "title": "Data Infrastructure Engineer, Pre-training",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4973067008"
-  },
   "https://job-boards.greenhouse.io/anthropic/jobs/5409055008": {
     "company": "Anthropic",
     "title": "Director, Finance Systems - Revenue Systems Engineering",
@@ -1048,6 +1042,12 @@
     "title": "Full-Stack Software Engineer, Reinforcement Learning",
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5186067008"
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/4973067008": {
+    "company": "Anthropic",
+    "title": "Infrastructure Engineer, Pre-training",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4973067008"
   },
   "https://job-boards.greenhouse.io/anthropic/jobs/5396384008": {
     "company": "Anthropic",
@@ -1085,17 +1085,17 @@
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5134895008"
   },
-  "https://job-boards.greenhouse.io/anthropic/jobs/5400153008": {
-    "company": "Anthropic",
-    "title": "Software Engineer, Business Technology",
-    "location": "New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5400153008"
-  },
   "https://job-boards.greenhouse.io/anthropic/jobs/5400160008": {
     "company": "Anthropic",
     "title": "Software Engineer, Business Technology",
     "location": "London, UK",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5400160008"
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5400153008": {
+    "company": "Anthropic",
+    "title": "Software Engineer, Business Technology",
+    "location": "New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5400153008"
   },
   "https://job-boards.greenhouse.io/anthropic/jobs/5367585008": {
     "company": "Anthropic",
@@ -1132,6 +1132,12 @@
     "title": "Software Engineer, Research Tools",
     "location": "San Francisco, CA | New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4981828008"
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5421263008": {
+    "company": "Anthropic",
+    "title": "Software Engineer, Tokens and Prompt Structures",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5421263008"
   },
   "https://job-boards.greenhouse.io/anthropic/jobs/5211297008": {
     "company": "Anthropic",
@@ -1366,6 +1372,12 @@
     "title": "Staff Software Engineer, Growth ",
     "location": "San Francisco, CA | New York City, NY | Seattle, WA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5363469008"
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5390966008": {
+    "company": "Anthropic",
+    "title": "Staff Software Engineer, GTM AI Engineering ",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390966008"
   },
   "https://job-boards.greenhouse.io/anthropic/jobs/5368166008": {
     "company": "Anthropic",
@@ -1763,17 +1775,17 @@
     "location": "London, England, United Kingdom",
     "url": "https://job-boards.greenhouse.io/xai/jobs/5108231007"
   },
-  "https://job-boards.greenhouse.io/xai/jobs/5007310007": {
-    "company": "xAI",
-    "title": "Software Engineer, X Money",
-    "location": "Tokyo, Japan",
-    "url": "https://job-boards.greenhouse.io/xai/jobs/5007310007"
-  },
   "https://job-boards.greenhouse.io/xai/jobs/5107958007": {
     "company": "xAI",
     "title": "Software Engineer, X Money",
     "location": " Palo Alto, CA",
     "url": "https://job-boards.greenhouse.io/xai/jobs/5107958007"
+  },
+  "https://job-boards.greenhouse.io/xai/jobs/5007310007": {
+    "company": "xAI",
+    "title": "Software Engineer, X Money",
+    "location": "Tokyo, Japan",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5007310007"
   },
   "https://jobs.ashbyhq.com/cursor/0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74": {
     "company": "Anysphere (Cursor)",
@@ -1919,6 +1931,24 @@
     "location": "",
     "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b"
   },
+  "https://jobs.ashbyhq.com/cursor/c1ac67d4-645a-4632-a178-ea6b5f49bb26": {
+    "company": "Anysphere (Cursor)",
+    "title": "Software Engineer, Research Tools",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/cursor/c1ac67d4-645a-4632-a178-ea6b5f49bb26"
+  },
+  "https://jobs.ashbyhq.com/cursor/c68b3d8f-360d-41f0-84fd-1cb225b19e23": {
+    "company": "Anysphere (Cursor)",
+    "title": "Software Engineer, RL Environments",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/cursor/c68b3d8f-360d-41f0-84fd-1cb225b19e23"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8813515002": {
+    "company": "Databricks",
+    "title": "AI Forward Deployed Engineer - Sweden",
+    "location": "Stockholm, Sweden",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8813515002"
+  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002": {
     "company": "Databricks",
     "title": "Associate Product Manager, New Grad (2027 Start)",
@@ -1943,17 +1973,17 @@
     "location": "Mountain View, California; San Francisco, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8582276002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002": {
-    "company": "Databricks",
-    "title": "Senior Software Engineer (App-Framework)",
-    "location": "Bengaluru, India",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8210383002": {
     "company": "Databricks",
     "title": "Senior Software Engineer (App-Framework)",
     "location": "Bengaluru, India",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8210383002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002": {
+    "company": "Databricks",
+    "title": "Senior Software Engineer (App-Framework)",
+    "location": "Bengaluru, India",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8183195002": {
     "company": "Databricks",
@@ -1961,23 +1991,41 @@
     "location": "Mountain View, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8183195002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002": {
-    "company": "Databricks",
-    "title": "Senior Software Engineer - Backend",
-    "location": "Mountain View, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8093295002": {
     "company": "Databricks",
     "title": "Senior Software Engineer - Backend",
     "location": "Vancouver, Canada",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8093295002"
   },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002": {
+    "company": "Databricks",
+    "title": "Senior Software Engineer - Backend",
+    "location": "Bellevue, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002"
+  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8320183002": {
     "company": "Databricks",
     "title": "Senior Software Engineer - Backend",
     "location": "Bengaluru, India",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8320183002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002": {
+    "company": "Databricks",
+    "title": "Senior Software Engineer - Backend",
+    "location": "San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002": {
+    "company": "Databricks",
+    "title": "Senior Software Engineer - Backend",
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8029671002": {
+    "company": "Databricks",
+    "title": "Senior Software Engineer - Backend",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029671002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7477087002": {
     "company": "Databricks",
@@ -1990,24 +2038,6 @@
     "title": "Senior Software Engineer - Backend",
     "location": "Belgrade, Serbia",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012803002"
-  },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002": {
-    "company": "Databricks",
-    "title": "Senior Software Engineer - Backend",
-    "location": "Bellevue, Washington",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002"
-  },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8029671002": {
-    "company": "Databricks",
-    "title": "Senior Software Engineer - Backend",
-    "location": "Amsterdam, Netherlands",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029671002"
-  },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002": {
-    "company": "Databricks",
-    "title": "Senior Software Engineer - Backend",
-    "location": "San Francisco, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002": {
     "company": "Databricks",
@@ -2033,11 +2063,11 @@
     "location": "Bengaluru, India",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=6544383002": {
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8012809002": {
     "company": "Databricks",
     "title": "Senior Software Engineer - Database Engine Internals",
-    "location": "Mountain View, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544383002"
+    "location": "Belgrade, Serbia",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012809002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002": {
     "company": "Databricks",
@@ -2045,11 +2075,11 @@
     "location": "San Francisco, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8012809002": {
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=6544383002": {
     "company": "Databricks",
     "title": "Senior Software Engineer - Database Engine Internals",
-    "location": "Belgrade, Serbia",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012809002"
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544383002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002": {
     "company": "Databricks",
@@ -2081,23 +2111,11 @@
     "location": "Belgrade, Serbia",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012800002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002": {
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002": {
     "company": "Databricks",
     "title": "Senior Software Engineer - Fullstack",
     "location": "Mountain View, California; San Francisco, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002"
-  },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8029679002": {
-    "company": "Databricks",
-    "title": "Senior Software Engineer - Fullstack",
-    "location": "Amsterdam, Netherlands",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029679002"
-  },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002": {
-    "company": "Databricks",
-    "title": "Senior Software Engineer - Fullstack",
-    "location": "Seattle, Washington",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002"
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8099342002": {
     "company": "Databricks",
@@ -2105,11 +2123,23 @@
     "location": "Vancouver, Canada",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099342002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002": {
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002": {
     "company": "Databricks",
     "title": "Senior Software Engineer - Fullstack",
     "location": "Mountain View, California; San Francisco, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002"
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002": {
+    "company": "Databricks",
+    "title": "Senior Software Engineer - Fullstack",
+    "location": "Seattle, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8029679002": {
+    "company": "Databricks",
+    "title": "Senior Software Engineer - Fullstack",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029679002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002": {
     "company": "Databricks",
@@ -2159,12 +2189,6 @@
     "location": "Bengaluru, India",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647353002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=7619811002": {
-    "company": "Databricks",
-    "title": "Senior Software Engineer - Observability",
-    "location": "Bengaluru, India",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619811002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7938410002": {
     "company": "Databricks",
     "title": "Senior Software Engineer - Partner Ecosystem",
@@ -2207,17 +2231,11 @@
     "location": "Bengaluru, India",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7651345002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=7319791002": {
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8303015002": {
     "company": "Databricks",
     "title": "Senior Staff Software Engineer - Delta",
-    "location": "Berlin, Germany",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7319791002"
-  },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8303020002": {
-    "company": "Databricks",
-    "title": "Senior Staff Software Engineer - Delta",
-    "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8303020002"
+    "location": "Amsterdam, Netherlands",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8303015002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8303017002": {
     "company": "Databricks",
@@ -2225,11 +2243,11 @@
     "location": "Z\u00fcrich, Switzerland",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8303017002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8303015002": {
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=7319791002": {
     "company": "Databricks",
     "title": "Senior Staff Software Engineer - Delta",
-    "location": "Amsterdam, Netherlands",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8303015002"
+    "location": "Berlin, Germany",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7319791002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8303014002": {
     "company": "Databricks",
@@ -2237,23 +2255,29 @@
     "location": "Aarhus, Denmark",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8303014002"
   },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8303020002": {
+    "company": "Databricks",
+    "title": "Senior Staff Software Engineer - Delta",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8303020002"
+  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7934466002": {
     "company": "Databricks",
     "title": "Senior Staff Software Engineer - Enzyme",
     "location": "Mountain View, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7934466002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002": {
-    "company": "Databricks",
-    "title": "Senior Staff Software Engineer - IAM",
-    "location": "Seattle, Washington",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7274563002": {
     "company": "Databricks",
     "title": "Senior Staff Software Engineer - IAM",
     "location": "Mountain View, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274563002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002": {
+    "company": "Databricks",
+    "title": "Senior Staff Software Engineer - IAM",
+    "location": "Seattle, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8493002002": {
     "company": "Databricks",
@@ -2273,53 +2297,23 @@
     "location": "Bengaluru, India",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8439350002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=7274902002": {
-    "company": "Databricks",
-    "title": "Senior Staff Software Engineer - Security Infrastructure",
-    "location": "Bellevue, Washington",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274902002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002": {
     "company": "Databricks",
     "title": "Senior Staff Software Engineer - Security Infrastructure",
     "location": "Mountain View, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8422481002": {
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=7274902002": {
     "company": "Databricks",
-    "title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
-    "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422481002"
+    "title": "Senior Staff Software Engineer - Security Infrastructure",
+    "location": "Bellevue, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274902002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8422484002": {
-    "company": "Databricks",
-    "title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
-    "location": "Aarhus, Denmark",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422484002"
-  },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8422483002": {
-    "company": "Databricks",
-    "title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
-    "location": "Z\u00fcrich, Switzerland",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422483002"
-  },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8407527002": {
-    "company": "Databricks",
-    "title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
-    "location": "Berlin, Germany",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407527002"
-  },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8422477002": {
-    "company": "Databricks",
-    "title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
-    "location": "Amsterdam, Netherlands",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422477002"
-  },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8012650002": {
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8029666002": {
     "company": "Databricks",
     "title": "Software Engineer - Backend",
-    "location": "Belgrade, Serbia",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012650002"
+    "location": "Amsterdam, Netherlands",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029666002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7737233002": {
     "company": "Databricks",
@@ -2327,11 +2321,11 @@
     "location": "Aarhus, Denmark",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7737233002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8029666002": {
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8012650002": {
     "company": "Databricks",
     "title": "Software Engineer - Backend",
-    "location": "Amsterdam, Netherlands",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029666002"
+    "location": "Belgrade, Serbia",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012650002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8012658002": {
     "company": "Databricks",
@@ -2345,17 +2339,17 @@
     "location": "Belgrade, Serbia",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012691002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002": {
-    "company": "Databricks",
-    "title": "Software Engineer, Web Products",
-    "location": "Mountain View, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002": {
     "company": "Databricks",
     "title": "Software Engineer, Web Products",
     "location": "Mountain View, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002": {
+    "company": "Databricks",
+    "title": "Software Engineer, Web Products",
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8493168002": {
     "company": "Databricks",
@@ -2519,17 +2513,17 @@
     "location": "New York City, New York",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8532681002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8560783002": {
-    "company": "Databricks",
-    "title": "Staff Software Engineer, AI Native Web Platform",
-    "location": "Mountain View, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560783002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8635188002": {
     "company": "Databricks",
     "title": "Staff Software Engineer, AI Native Web Platform",
     "location": "Mountain View, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8635188002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8560783002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer, AI Native Web Platform",
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560783002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8509536002": {
     "company": "Databricks",
@@ -2537,17 +2531,17 @@
     "location": "New York City, New York",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8509536002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8552484002": {
-    "company": "Databricks",
-    "title": "Staff Software Engineer - AI Research Infrastructure",
-    "location": "New York City, New York; San Francisco, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8552484002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8532682002": {
     "company": "Databricks",
     "title": "Staff Software Engineer - AI Research Infrastructure",
     "location": "New York City, New York; San Francisco, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8532682002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8552484002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer - AI Research Infrastructure",
+    "location": "New York City, New York; San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8552484002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8582271002": {
     "company": "Databricks",
@@ -2567,23 +2561,11 @@
     "location": "San Francisco, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8029674002": {
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002": {
     "company": "Databricks",
     "title": "Staff Software Engineer - Backend",
-    "location": "Amsterdam, Netherlands",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029674002"
-  },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8012814002": {
-    "company": "Databricks",
-    "title": "Staff Software Engineer - Backend",
-    "location": "Belgrade, Serbia",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012814002"
-  },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=7984907002": {
-    "company": "Databricks",
-    "title": "Staff Software Engineer - Backend",
-    "location": "Berlin, Germany",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7984907002"
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8320187002": {
     "company": "Databricks",
@@ -2591,23 +2573,35 @@
     "location": "Bengaluru, India",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8320187002"
   },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8012814002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Backend",
+    "location": "Belgrade, Serbia",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012814002"
+  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002": {
     "company": "Databricks",
     "title": "Staff Software Engineer - Backend",
     "location": "Seattle, Washington",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002"
   },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8029674002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Backend",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029674002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=7984907002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Backend",
+    "location": "Berlin, Germany",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7984907002"
+  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002": {
     "company": "Databricks",
     "title": "Staff Software Engineer - Backend",
     "location": "Bellevue, Washington",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002"
-  },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002": {
-    "company": "Databricks",
-    "title": "Staff Software Engineer - Backend",
-    "location": "Mountain View, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8374611002": {
     "company": "Databricks",
@@ -2693,12 +2687,6 @@
     "location": "Bengaluru, India",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7652016002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002": {
-    "company": "Databricks",
-    "title": "Staff Software Engineer - Distributed Data Systems",
-    "location": "Mountain View, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8012831002": {
     "company": "Databricks",
     "title": "Staff Software Engineer - Distributed Data Systems",
@@ -2716,6 +2704,12 @@
     "title": "Staff Software Engineer - Distributed Data Systems",
     "location": "San Francisco, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Distributed Data Systems",
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8224683002": {
     "company": "Databricks",
@@ -2777,17 +2771,17 @@
     "location": "Mountain View, California; San Francisco, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8692516002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=7994801002": {
-    "company": "Databricks",
-    "title": "Staff Software Engineer - IAM",
-    "location": "Mountain View, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994801002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7994790002": {
     "company": "Databricks",
     "title": "Staff Software Engineer - IAM",
     "location": "Bellevue, Washington",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994790002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=7994801002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer - IAM",
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994801002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7648674002": {
     "company": "Databricks",
@@ -2795,17 +2789,17 @@
     "location": "Bengaluru, India",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7648674002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=8201686002": {
-    "company": "Databricks",
-    "title": "Staff Software Engineer - Ingestion",
-    "location": "Bengaluru, India",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8201686002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8200692002": {
     "company": "Databricks",
     "title": "Staff Software Engineer - Ingestion",
     "location": "Bengaluru, India",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200692002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8201686002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Ingestion",
+    "location": "Bengaluru, India",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8201686002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8798198002": {
     "company": "Databricks",
@@ -2885,17 +2879,17 @@
     "location": "Bengaluru, India",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7958688002"
   },
-  "https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002": {
-    "company": "Databricks",
-    "title": "Staff Software Engineer - Security Infrastructure",
-    "location": "Mountain View, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002"
-  },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002": {
     "company": "Databricks",
     "title": "Staff Software Engineer - Security Infrastructure",
     "location": "Bellevue, Washington",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002": {
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Security Infrastructure",
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002"
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=8663972002": {
     "company": "Databricks",
@@ -3161,17 +3155,17 @@
     "location": "San Francisco",
     "url": "https://job-boards.greenhouse.io/togetherai/jobs/5180690007"
   },
-  "https://job-boards.greenhouse.io/togetherai/jobs/5214645007": {
-    "company": "Together AI",
-    "title": "Staff Software Engineer, Inference / Compute Infrastructure Engineering",
-    "location": "London & Amsterdam",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5214645007"
-  },
   "https://job-boards.greenhouse.io/togetherai/jobs/5186628007": {
     "company": "Together AI",
     "title": "Staff Software Engineer, Inference / Compute Infrastructure Engineering",
     "location": "San Francisco",
     "url": "https://job-boards.greenhouse.io/togetherai/jobs/5186628007"
+  },
+  "https://job-boards.greenhouse.io/togetherai/jobs/5214645007": {
+    "company": "Together AI",
+    "title": "Staff Software Engineer, Inference / Compute Infrastructure Engineering",
+    "location": "London & Amsterdam",
+    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5214645007"
   },
   "https://jobs.ashbyhq.com/crusoe/ccdaa39d-9a9a-4fbe-a27a-98b2522d6940": {
     "company": "Crusoe",
@@ -3220,12 +3214,6 @@
     "title": "Lead Mechanical Systems Engineer - Spark",
     "location": "",
     "url": "https://jobs.ashbyhq.com/crusoe/9aa892be-71db-455e-9980-ffff4badfee3"
-  },
-  "https://jobs.ashbyhq.com/crusoe/e726109d-5c4f-478b-a80f-cb277455484a": {
-    "company": "Crusoe",
-    "title": "Senior Software Engineer, AI Model Lifecycle",
-    "location": "",
-    "url": "https://jobs.ashbyhq.com/crusoe/e726109d-5c4f-478b-a80f-cb277455484a"
   },
   "https://jobs.ashbyhq.com/crusoe/f28a39ed-6b2e-42ff-9f3a-23cab436abbe": {
     "company": "Crusoe",
@@ -4541,18 +4529,6 @@
     "location": "Toronto, ON, CA",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682"
   },
-  "https://www.pinterestcareers.com/jobs/?gh_jid=7494708": {
-    "company": "Pinterest",
-    "title": "Sr. Security Software Engineer, Application Security",
-    "location": "Chicago, IL, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494708"
-  },
-  "https://www.pinterestcareers.com/jobs/?gh_jid=8096738": {
-    "company": "Pinterest",
-    "title": "Sr. Security Software Engineer, Security Operations   ",
-    "location": "San Francisco, CA, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8096738"
-  },
   "https://www.pinterestcareers.com/jobs/?gh_jid=8106377": {
     "company": "Pinterest",
     "title": "Sr. Software Engineer ",
@@ -4643,41 +4619,17 @@
     "location": "Palo Alto, CA, US; Remote, US",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8076015"
   },
-  "https://www.pinterestcareers.com/jobs/?gh_jid=7990090": {
-    "company": "Pinterest",
-    "title": "Staff Software Engineer, Edge",
-    "location": "US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7990090"
-  },
   "https://www.pinterestcareers.com/jobs/?gh_jid=7874931": {
     "company": "Pinterest",
     "title": "Staff Software Engineer- Growth Performance Marketing",
     "location": "San Francisco, CA, US; Remote, US",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7874931"
   },
-  "https://www.pinterestcareers.com/jobs/?gh_jid=7954753": {
-    "company": "Pinterest",
-    "title": "Staff Software Engineer, Observability",
-    "location": "San Francisco, CA, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7954753"
-  },
-  "https://www.pinterestcareers.com/jobs/?gh_jid=7990086": {
-    "company": "Pinterest",
-    "title": "Staff Software Engineer, Service Communications",
-    "location": "San Francisco, CA, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7990086"
-  },
   "https://www.pinterestcareers.com/jobs/?gh_jid=8047425": {
     "company": "Pinterest",
     "title": "Staff Software Engineer, Storage Services",
     "location": "New York, NY, US; Remote, US",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8047425"
-  },
-  "https://www.pinterestcareers.com/jobs/?gh_jid=7408778": {
-    "company": "Pinterest",
-    "title": "Staff Software Engineer, TwoTwenty",
-    "location": "San Francisco, CA, US; Remote, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7408778"
   },
   "https://www.pinterestcareers.com/jobs/?gh_jid=8075888": {
     "company": "Pinterest",
@@ -4714,6 +4666,12 @@
     "title": "Students and new grads",
     "location": "",
     "url": "https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads"
+  },
+  "https://optiver.com/join-us/jobs/technology/amsterdam/rf-systems-engineer/": {
+    "company": "Optiver",
+    "title": "RF Systems Engineer",
+    "location": "",
+    "url": "https://optiver.com/join-us/jobs/technology/amsterdam/rf-systems-engineer/"
   },
   "https://optiver.com/join-us/jobs/technology/amsterdam/software-engineer-talent-tooling/": {
     "company": "Optiver",
